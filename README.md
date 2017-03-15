@@ -5,7 +5,7 @@ Awesome list of status pages open source software, online services and public st
 
 * [Opensource](#opensource)
 * [Services](#services)
-* [Public status pages](#public status pages)
+* [Public status pages](#publicstatuspages)
 
 ## Opensource
 * [CacheHQ](https://cachethq.io/) - PHP based 
