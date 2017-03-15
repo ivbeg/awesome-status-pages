@@ -19,7 +19,7 @@ Awesome list of status pages open source software, online services and public st
 * [Amazon AWS Service health dashboard](https://status.aws.amazon.com/)
 * [Apple Support System Status](https://www.apple.com/support/systemstatus/)
 * [GitHub Status](https://status.github.com/) - GitHub status page
-* [GitHub Status API)(https://status.github.com/api) - GitHub status using REST API
+* [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
 * [Google GSuite Appstatus](https://www.google.com/appsstatus) - Google Applications (G Suite) online status page
 * [Heroku Status](https://status.heroku.com/))
 * [Microsoft Azure Status](https://azure.microsoft.com/en-us/status/)
