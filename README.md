@@ -9,6 +9,7 @@ Awesome list of status pages open source software, online services and public st
 
 ## Opensource
 * [CacheHQ](https://cachethq.io/) - PHP based 
+* [cState](https://github.com/cstate/cstate) - Simple, dev friendly, and free to host (Netlify & GitHub Pages)
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine
 
 ## Services
