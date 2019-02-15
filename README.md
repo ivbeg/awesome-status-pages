@@ -15,7 +15,7 @@ Awesome list of status pages open source software, online services and public st
 ## Services
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
 * [Status.io](https://status.io)
-* [Statuspal.io](https://ststuapal.io)
+* [Statuspal.io](https://statuspal.io)
 
 ## Public status pages
 * [Amazon AWS Service health dashboard](https://status.aws.amazon.com/)
