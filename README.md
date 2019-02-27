@@ -11,11 +11,17 @@ Awesome list of status pages open source software, online services and public st
 * [CacheHQ](https://cachethq.io/) - PHP based 
 * [cState](https://github.com/cstate/cstate) - Simple, dev friendly, and free to host (Netlify & GitHub Pages)
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine
+* [Staytus](https://staytus.co/)
+* [Statusfy](https://statusfy.co)
+* [LambStatus](https://lambstatus.github.io)
+* [StatusOK](https://github.com/sanathp/statusok)
 
 ## Services
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
 * [Status.io](https://status.io)
 * [Statuspal.io](https://statuspal.io)
+* [Sorry™](https://www.sorryapp.com)
+* [Statusy](https://statusy.co)
 
 ## Public status pages
 * [Amazon AWS Service health dashboard](https://status.aws.amazon.com/)
