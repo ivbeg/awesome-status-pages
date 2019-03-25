@@ -15,6 +15,7 @@ Awesome list of status pages open source software, online services and public st
 * [Statusfy](https://statusfy.co)
 * [LambStatus](https://lambstatus.github.io)
 * [StatusOK](https://github.com/sanathp/statusok)
+* [Server-Status](https://github.com/Pryx/server-status)
 
 ## Services
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
