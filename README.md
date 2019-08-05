@@ -23,6 +23,7 @@ Awesome list of status pages open source software, online services and public st
 * [Statuspal.io](https://statuspal.io)
 * [Sorry™](https://www.sorryapp.com)
 * [Statusy](https://statusy.co)
+* [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
 
 ## Public status pages
 * [Amazon AWS Service health dashboard](https://status.aws.amazon.com/)
