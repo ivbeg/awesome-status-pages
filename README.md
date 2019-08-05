@@ -31,8 +31,8 @@ Awesome list of status pages open source software, online services and public st
 * [GitHub Status](https://status.github.com/) - GitHub status page
 * [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
 * [Google GSuite Appstatus](https://www.google.com/appsstatus) - Google Applications (G Suite) online status page
-* [Heroku Status](https://status.heroku.com/))
-* [Microsoft Azure Status](https://azure.microsoft.com/en-us/status/)
-* [Microsoft Office365 Status](https://portal.office.com/servicestatus)
-* [Rackspace System Status](https://status.rackspace.com/)
-* [Slack Status](https://status.slack.com/)
+* [Heroku Status](https://status.heroku.com/)) - Heroku status page
+* [Microsoft Azure Status](https://azure.microsoft.com/en-us/status/) - Microsoft Azure status page
+* [Microsoft Office365 Status](https://portal.office.com/servicestatus) - Microsoft Office365 status page
+* [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
+* [Slack Status](https://status.slack.com/) - Slack, chat platform, status page
