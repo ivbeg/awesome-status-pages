@@ -19,6 +19,7 @@ Awesome list of status pages open source software, online services and public st
 
 ## Services
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
+* [PageFate.com](https://pagefate.com) - free online service with customisable design
 * [Status.io](https://status.io)
 * [Statuspal.io](https://statuspal.io)
 * [Sorry™](https://www.sorryapp.com)
