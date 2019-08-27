@@ -16,7 +16,7 @@ Awesome list of status pages open source software, online services and public st
 * [LambStatus](https://lambstatus.github.io)
 * [StatusOK](https://github.com/sanathp/statusok)
 * [Server-Status](https://github.com/Pryx/server-status)
-* [Kardio] (https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
+* [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
 
 ## Services
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
