@@ -18,6 +18,8 @@ Awesome list of status pages open source software, online services and public st
 * [Statping](https://github.com/hunterlong/statping)
 * [Server-Status](https://github.com/Pryx/server-status)
 * [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
+* [Staytus](https://github.com/batiron/status)
+
 
 ## Services
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
@@ -26,16 +28,28 @@ Awesome list of status pages open source software, online services and public st
 * [Statuspal.io](https://statuspal.io)
 * [Sorry™](https://www.sorryapp.com)
 * [Statusy](https://statusy.co)
+* [Uptime.io](https://updown.io/) -  uptime monitoring with flexible status
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
+* [FreshStatus](https://www.freshworks.com/statuspage/)
+* [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
+* [StatusKit](https://statuskit.com/)
+* [Exana Statuspage](https://exana.io/statuspage)
+* [LambStatus](https://lambstatus.github.io/)
+* [StatusKeeper](https://statuskeeper.com/)
+* [Hund](https://hund.io/)
 
 ## Public status pages
+* [Adobe System Status](https://status.adobe.com/) - Adobe services status
 * [Amazon AWS Service health dashboard](https://status.aws.amazon.com/)
-* [Apple Support System Status](https://www.apple.com/support/systemstatus/)
+* [Apple Support System Status](https://www.apple.com/support/systemstatus/) - Apple support status
+* [Box Status](https://status.box.com/) - Box.net status
 * [GitHub Status](https://status.github.com/) - GitHub status page
 * [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
 * [Google GSuite Appstatus](https://www.google.com/appsstatus) - Google Applications (G Suite) online status page
+* [Google Cloud Status](https://status.cloud.google.com/) - Status of Google Cloud
 * [Heroku Status](https://status.heroku.com/) - Heroku status page
-* [Microsoft Azure Status](https://azure.microsoft.com/en-us/status/) - Microsoft Azure status page
-* [Microsoft Office365 Status](https://portal.office.com/servicestatus) - Microsoft Office365 status page
+* [Microsoft Azure Status](https://status.azure.com/ru-ru/status) - Microsoft Azure status page
+* [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
+* [Paypal Status Page](https://www.paypal-status.com/product/production)
 * [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
 * [Slack Status](https://status.slack.com/) - Slack, chat platform, status page
