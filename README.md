@@ -10,10 +10,10 @@ Awesome list of status pages open source software, online services and public st
 ## Opensource
 * [Cachet](https://cachethq.io/) - Laravel based status page system for everyone.  
 * [cState](https://github.com/cstate/cstate) - Simple, dev friendly, and free to host (Netlify & GitHub Pages)
-* [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine
+* [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
 * [Staytus](https://staytus.co/)
 * [Statusfy](https://statusfy.co)
-* [LambStatus](https://lambstatus.github.io)
+* [LambStatus](https://lambstatus.github.io) (*Deprecated*)
 * [StatusOK](https://github.com/sanathp/statusok)
 * [Statping](https://github.com/hunterlong/statping)
 * [Server-Status](https://github.com/Pryx/server-status)
