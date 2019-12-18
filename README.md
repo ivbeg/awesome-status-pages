@@ -18,7 +18,7 @@ Awesome list of status pages open source software, online services and public st
 * [Statping](https://github.com/hunterlong/statping)
 * [Server-Status](https://github.com/Pryx/server-status)
 * [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
-* [Staytus](https://github.com/batiron/status)
+* [Staytus](https://github.com/batiron/status) (*Deprecated*)
 
 
 ## Services
