@@ -18,8 +18,7 @@ Awesome list of status pages open source software, online services and public st
 * [Statping](https://github.com/hunterlong/statping)
 * [Server-Status](https://github.com/Pryx/server-status)
 * [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
-* [Staytus](https://github.com/batiron/status)
-
+* [statuspage](https://github.com/darkpixel/statuspage) - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/))
 
 ## Services
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
