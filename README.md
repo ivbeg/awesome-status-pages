@@ -44,6 +44,7 @@ Awesome list of status pages open source software, online services and public st
 * [Box Status](https://status.box.com/) - Box.net status
 * [GitHub Status](https://status.github.com/) - GitHub status page
 * [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
+* [GitLab System Status](https://status.gitlab.com) - GitLab status page
 * [Google GSuite Appstatus](https://www.google.com/appsstatus) - Google Applications (G Suite) online status page
 * [Google Cloud Status](https://status.cloud.google.com/) - Status of Google Cloud
 * [Heroku Status](https://status.heroku.com/) - Heroku status page
