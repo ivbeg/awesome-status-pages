@@ -14,7 +14,7 @@ Awesome list of status pages open source software, online services and public st
 * [Staytus](https://staytus.co/)  (*Deprecated*)
 * [Statusfy](https://statusfy.co)
 * [LambStatus](https://lambstatus.github.io) (*Deprecated*)
-* [Monitoror] (https://monitoror.com/) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
+* [Monitoror] (https://monitoror.com/) - monitoring wallboard
 * [StatusOK](https://github.com/sanathp/statusok)
 * [Statping](https://github.com/hunterlong/statping)
 * [Server-Status](https://github.com/Pryx/server-status)
