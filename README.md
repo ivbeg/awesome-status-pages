@@ -10,44 +10,44 @@ Awesome list of status pages open source software, online services and public st
 ## Opensource
 * [Cachet](https://cachethq.io/) - Laravel based status page system for everyone.  
 * [cState](https://github.com/cstate/cstate) - Simple, dev friendly, and free to host (Netlify & GitHub Pages)
-* [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
-* [Staytus](https://staytus.co/)  (*Deprecated*)
-* [Statusfy](https://statusfy.co)
+* [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
 * [LambStatus](https://lambstatus.github.io) (*Deprecated*)
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
-* [StatusOK](https://github.com/sanathp/statusok)
-* [Statping](https://github.com/hunterlong/statping)
 * [Server-Status](https://github.com/Pryx/server-status)
-* [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
+* [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
+* [Statping](https://github.com/hunterlong/statping)
+* [Statusfy](https://statusfy.co)
+* [StatusOK](https://github.com/sanathp/statusok)
 * [statuspage](https://github.com/darkpixel/statuspage) - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/))
+* [Staytus](https://staytus.co/)  (*Deprecated*)
 
 ## Services
-* [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
+* [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
+* [Exana Statuspage](https://exana.io/statuspage)
+* [FreshStatus](https://www.freshworks.com/statuspage/)
+* [Hund](https://hund.io/)
+* [LambStatus](https://lambstatus.github.io/)
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
-* [Status.io](https://status.io)
-* [Statuspal.io](https://statuspal.io)
 * [Sorry™](https://www.sorryapp.com)
+* [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
+* [Status.io](https://status.io)
+* [StatusKeeper](https://statuskeeper.com/)
+* [StatusKit](https://statuskit.com/)
+* [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
+* [Statuspal.io](https://statuspal.io)
 * [Statusy](https://statusy.co)
 * [Uptime.io](https://updown.io/) -  uptime monitoring with flexible status
-* [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
-* [FreshStatus](https://www.freshworks.com/statuspage/)
-* [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
-* [StatusKit](https://statuskit.com/)
-* [Exana Statuspage](https://exana.io/statuspage)
-* [LambStatus](https://lambstatus.github.io/)
-* [StatusKeeper](https://statuskeeper.com/)
-* [Hund](https://hund.io/)
 
 ## Public status pages
 * [Adobe System Status](https://status.adobe.com/) - Adobe services status
 * [Amazon AWS Service health dashboard](https://status.aws.amazon.com/)
 * [Apple Support System Status](https://www.apple.com/support/systemstatus/) - Apple support status
 * [Box Status](https://status.box.com/) - Box.net status
-* [GitHub Status](https://status.github.com/) - GitHub status page
 * [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
+* [GitHub Status](https://status.github.com/) - GitHub status page
 * [GitLab System Status](https://status.gitlab.com) - GitLab status page
-* [Google GSuite Appstatus](https://www.google.com/appsstatus) - Google Applications (G Suite) online status page
 * [Google Cloud Status](https://status.cloud.google.com/) - Status of Google Cloud
+* [Google GSuite Appstatus](https://www.google.com/appsstatus) - Google Applications (G Suite) online status page
 * [Heroku Status](https://status.heroku.com/) - Heroku status page
 * [Microsoft Azure Status](https://status.azure.com/ru-ru/status) - Microsoft Azure status page
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
