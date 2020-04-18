@@ -36,7 +36,8 @@ Awesome list of status pages open source software, online services and public st
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
 * [Statuspal.io](https://statuspal.io)
 * [Statusy](https://statusy.co)
-* [Uptime.io](https://updown.io/) -  uptime monitoring with flexible status
+* [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
+* [Uptime Robot](https://uptimerobot.com/)
 
 ## Public status pages
 * [Adobe System Status](https://status.adobe.com/) - Adobe services status
