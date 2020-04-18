@@ -44,14 +44,21 @@ Awesome list of status pages open source software, online services and public st
 * [Amazon AWS Service health dashboard](https://status.aws.amazon.com/)
 * [Apple Support System Status](https://www.apple.com/support/systemstatus/) - Apple support status
 * [Box Status](https://status.box.com/) - Box.net status
+* [Discord App Status](https://status.discordapp.com/) - Discord App (videoconferencing, audioconferencing) status page
+* [Facebook Platform Status](https://developers.facebook.com/status/dashboard/) - Facebook platform status page
 * [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
 * [GitHub Status](https://status.github.com/) - GitHub status page
 * [GitLab System Status](https://status.gitlab.com) - GitLab status page
 * [Google Cloud Status](https://status.cloud.google.com/) - Status of Google Cloud
 * [Google GSuite Appstatus](https://www.google.com/appsstatus) - Google Applications (G Suite) online status page
 * [Heroku Status](https://status.heroku.com/) - Heroku status page
+* [Microsoft Advertizement Status](https://status.ads.microsoft.com/) - Microsoft Advertizement status page
 * [Microsoft Azure Status](https://status.azure.com/ru-ru/status) - Microsoft Azure status page
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
 * [Paypal Status Page](https://www.paypal-status.com/product/production)
+* [Pinterest Status Page](https://www.pintereststatus.com/)
 * [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
 * [Slack Status](https://status.slack.com/) - Slack, chat platform, status page
+* [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
+* [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Graphana based status page replacement for Wikipedia
+* [Zoom Cloud Status](https://status.zoom.us/) - Zoom (videoconferencing) status page
