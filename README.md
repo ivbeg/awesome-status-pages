@@ -16,6 +16,7 @@ Awesome list of status pages open source software, online services and public st
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
 * [Server-Status](https://github.com/Pryx/server-status)
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
+* [Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page
 * [Statping](https://github.com/hunterlong/statping)
 * [Statusfy](https://statusfy.co)
 * [StatusOK](https://github.com/sanathp/statusok)
@@ -45,6 +46,8 @@ Awesome list of status pages open source software, online services and public st
 * [Amazon AWS Service health dashboard](https://status.aws.amazon.com/)
 * [Apple Support System Status](https://www.apple.com/support/systemstatus/) - Apple support status
 * [Box Status](https://status.box.com/) - Box.net status
+* [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare System Status
+* [Datadog Status](https://status.datadoghq.com/) - the status of Datadog. 
 * [Discord App Status](https://status.discordapp.com/) - Discord App (videoconferencing, audioconferencing) status page
 * [Facebook Platform Status](https://developers.facebook.com/status/dashboard/) - Facebook platform status page
 * [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
@@ -59,6 +62,7 @@ Awesome list of status pages open source software, online services and public st
 * [Paypal Status Page](https://www.paypal-status.com/product/production)
 * [Pinterest Status Page](https://www.pintereststatus.com/)
 * [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
+* [Skype Status](https://support.skype.com/en/status/) - Microsoft Skype Status page
 * [Slack Status](https://status.slack.com/) - Slack, chat platform, status page
 * [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
 * [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Graphana based status page replacement for Wikipedia
