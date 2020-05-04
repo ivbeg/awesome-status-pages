@@ -9,6 +9,7 @@ Awesome list of status pages open source software, online services and public st
 
 ## Opensource
 * [Cachet](https://cachethq.io/) - Laravel based status page system for everyone.  
+* [Corestats](https://github.com/jayfk/statuspage) - turn GitHub issues into a status page
 * [cState](https://github.com/cstate/cstate) - Simple, dev friendly, and free to host (Netlify & GitHub Pages)
 * [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
 * [LambStatus](https://lambstatus.github.io) (*Deprecated*)
