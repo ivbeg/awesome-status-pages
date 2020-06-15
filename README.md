@@ -31,6 +31,7 @@ Awesome list of status pages open source software, online services and public st
 * [Hund](https://hund.io/)
 * [LambStatus](https://lambstatus.github.io/)
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
+* [ping2me](https://www.ping2me.io/) - monitor endpoints to make sure that they are online. 
 * [Sorry™](https://www.sorryapp.com)
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
 * [Status.io](https://status.io)
