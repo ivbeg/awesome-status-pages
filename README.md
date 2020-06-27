@@ -27,6 +27,7 @@ Awesome list of status pages open source software, online services and public st
 
 ## Services
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
+* [Asserted](https://asserted.io) - continuously and deeply test your app in production with Mocha.
 * [Exana Statuspage](https://exana.io/statuspage)
 * [FreshStatus](https://www.freshworks.com/statuspage/)
 * [Hund](https://hund.io/)
