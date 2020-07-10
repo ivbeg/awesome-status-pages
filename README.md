@@ -26,6 +26,7 @@ Awesome list of status pages open source software, online services and public st
 * [Staytus](https://staytus.co/)  (*Deprecated*)
 
 ## Services
+* [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
 * [Asserted.io](https://asserted.io) - uptime tests written in Mocha
 * [Exana Statuspage](https://exana.io/statuspage)
