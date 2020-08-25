@@ -25,6 +25,7 @@ Awesome list of status pages open source software, online services and public st
 * [statuspage](https://github.com/darkpixel/statuspage) - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/))
 * [Staytus](https://staytus.co/)  (*Deprecated*)
 * [Vigil](https://github.com/valeriansaliou/vigil) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
+* [Statusimo](https://github.com/EvotecIT/Statusimo) - A PowerShell module that is able to generate a status page entirely from PowerShell. 
 
 ## Services
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
