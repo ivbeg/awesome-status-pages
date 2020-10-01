@@ -57,6 +57,7 @@ Awesome list of status pages open source software, online services and public st
 * [Box Status](https://status.box.com/) - Box.net status
 * [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare System Status
 * [Datadog Status](https://status.datadoghq.com/) - the status of Datadog. 
+* [DigitalOcean Status](https://status.digitalocean.com/) - DigitalOcean Status page
 * [Discord App Status](https://status.discordapp.com/) - Discord App (videoconferencing, audioconferencing) status page
 * [Facebook Platform Status](https://developers.facebook.com/status/dashboard/) - Facebook platform status page
 * [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
@@ -71,6 +72,7 @@ Awesome list of status pages open source software, online services and public st
 * [Paypal Status Page](https://www.paypal-status.com/product/production)
 * [Pinterest Status Page](https://www.pintereststatus.com/)
 * [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
+* [reddit Status](https://www.redditstatus.com/) - reddit Social Media status page
 * [Skype Status](https://support.skype.com/en/status/) - Microsoft Skype Status page
 * [Slack Status](https://status.slack.com/) - Slack, chat platform, status page
 * [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
