@@ -49,6 +49,7 @@ Awesome list of status pages open source software, online services and public st
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [Uptime Robot](https://uptimerobot.com/)
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
+* [HetrixTools] (https://hetrixtools.com)
 
 ## Public status pages
 * [Adobe System Status](https://status.adobe.com/) - Adobe services status
@@ -76,3 +77,4 @@ Awesome list of status pages open source software, online services and public st
 * [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
 * [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Graphana based status page replacement for Wikipedia
 * [Zoom Cloud Status](https://status.zoom.us/) - Zoom (videoconferencing) status page
+* [DigitalOcean Status] (https://status.digitalocean.com)
