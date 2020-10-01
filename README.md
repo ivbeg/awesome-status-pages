@@ -77,4 +77,3 @@ Awesome list of status pages open source software, online services and public st
 * [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
 * [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Graphana based status page replacement for Wikipedia
 * [Zoom Cloud Status](https://status.zoom.us/) - Zoom (videoconferencing) status page
-* [DigitalOcean Status] (https://status.digitalocean.com)
