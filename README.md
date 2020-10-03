@@ -26,19 +26,18 @@ Awesome list of status pages open source software, online services and public st
 * [statuspage](https://github.com/darkpixel/statuspage) - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/))
 * [Staytus](https://staytus.co/)  (*Deprecated*)
 * [Vigil](https://github.com/valeriansaliou/vigil) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
-* [Statusimo](https://github.com/EvotecIT/Statusimo) - A PowerShell module that is able to generate a status page entirely from PowerShell. 
+* [Statusimo](https://github.com/EvotecIT/Statusimo) - A PowerShell module that is able to generate a status page entirely from PowerShell.
 
 ## Services
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
 * [Asserted.io](https://asserted.io) - uptime tests written in Mocha
-* [Exana Statuspage](https://exana.io/statuspage)
 * [FreshStatus](https://www.freshworks.com/statuspage/)
 * [Hund](https://hund.io/)
 * [LambStatus](https://lambstatus.github.io/)
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
-* [ping2me](https://www.ping2me.io/) - monitor endpoints to make sure that they are online. 
+* [ping2me](https://www.ping2me.io/) - monitor endpoints to make sure that they are online.
 * [Sorry™](https://www.sorryapp.com)
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
 * [Status.io](https://status.io)
@@ -58,7 +57,7 @@ Awesome list of status pages open source software, online services and public st
 * [Apple Support System Status](https://www.apple.com/support/systemstatus/) - Apple support status
 * [Box Status](https://status.box.com/) - Box.net status
 * [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare System Status
-* [Datadog Status](https://status.datadoghq.com/) - the status of Datadog. 
+* [Datadog Status](https://status.datadoghq.com/) - the status of Datadog.
 * [Discord App Status](https://status.discordapp.com/) - Discord App (videoconferencing, audioconferencing) status page
 * [Facebook Platform Status](https://developers.facebook.com/status/dashboard/) - Facebook platform status page
 * [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
