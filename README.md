@@ -50,6 +50,7 @@ Awesome list of status pages open source software, online services and public st
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [Uptime Robot](https://uptimerobot.com/)
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
+* [HetrixTools] (https://hetrixtools.com)
 
 ## Public status pages
 * [Adobe System Status](https://status.adobe.com/) - Adobe services status
