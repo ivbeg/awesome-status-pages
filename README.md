@@ -45,7 +45,7 @@ Awesome list of status pages open source software, online services and public st
 * [StatusKit](https://statuskit.com/)
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
 * [Statuspal.io](https://statuspal.io)
-* [Statusy](https://statusy.co)
+* ~~[Statusy](https://statusy.co) *(Discontinued)*~~
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [Uptime Robot](https://uptimerobot.com/)
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
