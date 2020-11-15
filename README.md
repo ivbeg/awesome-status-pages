@@ -50,6 +50,7 @@ Awesome list of status pages open source software, online services and public st
 * [Uptime Robot](https://uptimerobot.com/)
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
 * [HetrixTools](https://hetrixtools.com) - uptime monitoring for ips and websites with an integrated status page
+* [Hexadecimal](https://tryhexadecimal.com) - uptime & certificate monitoring and hosted status pages
 
 ## Public status pages
 * [Adobe System Status](https://status.adobe.com/) - Adobe services status
@@ -57,7 +58,7 @@ Awesome list of status pages open source software, online services and public st
 * [Apple Support System Status](https://www.apple.com/support/systemstatus/) - Apple support status
 * [Box Status](https://status.box.com/) - Box.net status
 * [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare System Status
-* [Datadog Status](https://status.datadoghq.com/) - the status of Datadog. 
+* [Datadog Status](https://status.datadoghq.com/) - the status of Datadog.
 * [DigitalOcean Status](https://status.digitalocean.com/) - DigitalOcean Status page
 * [Discord App Status](https://status.discordapp.com/) - Discord App (videoconferencing, audioconferencing) status page
 * [Facebook Platform Status](https://developers.facebook.com/status/dashboard/) - Facebook platform status page
