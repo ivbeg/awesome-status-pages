@@ -25,6 +25,9 @@ Awesome list of status pages open source software, online services and public st
 * [StatusOK](https://github.com/sanathp/statusok)
 * [statuspage](https://github.com/darkpixel/statuspage) - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/))
 * [Staytus](https://staytus.co/)  (*Deprecated*)
+* [health_check](https://github.com/ianheggie/health_check) - Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom
+* [status-page](https://github.com/rails-engine/status-page) - Mountable status page for your Rails application, to check Cache, Redis, Sidekiq
+* [health-monitor-rails](https://github.com/lbeder/health-monitor-rails) - A Rails plugin which provides a health checking and monitoring API of various services and application aspects
 * [Vigil](https://github.com/valeriansaliou/vigil) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 * [Statusimo](https://github.com/EvotecIT/Statusimo) - A PowerShell module that is able to generate a status page entirely from PowerShell.
 * [Workers Status Page](https://github.com/eidam/cf-workers-status-page) - Cloudflare Workers (completely on the edge) powered monitoring & status page.
