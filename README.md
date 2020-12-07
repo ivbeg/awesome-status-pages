@@ -28,6 +28,7 @@ Awesome list of status pages open source software, online services and public st
 * [Vigil](https://github.com/valeriansaliou/vigil) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 * [Statusimo](https://github.com/EvotecIT/Statusimo) - A PowerShell module that is able to generate a status page entirely from PowerShell.
 * [Workers Status Page](https://github.com/eidam/cf-workers-status-page) - Cloudflare Workers (completely on the edge) powered monitoring & status page.
+* [Uptimon](https://github.com/RatherLogical/Uptimon) - A modern, high performance, PHP powered status page/monitoring solution.
 
 ## Services
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
