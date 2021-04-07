@@ -59,6 +59,7 @@ Awesome list of status pages open source software, online services and public st
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
 * [HetrixTools](https://hetrixtools.com) - uptime monitoring for ips and websites with an integrated status page
 * [Hexadecimal](https://tryhexadecimal.com) - uptime & certificate monitoring and hosted status pages
+* [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 
 ## Public status pages
 * [Adobe System Status](https://status.adobe.com/) - Adobe services status
