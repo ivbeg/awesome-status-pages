@@ -39,7 +39,7 @@ Awesome list of status pages open source software, online services and public st
 ## Services
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
-* [Asserted.io](https://asserted.io) - uptime tests written in Mocha
+* ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha *(Discontinued)*~~
 * [FreshStatus](https://www.freshworks.com/statuspage/)
 * [Hund](https://hund.io/)
 * [LambStatus](https://lambstatus.github.io/)
