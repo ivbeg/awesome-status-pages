@@ -36,29 +36,30 @@ Awesome list of status pages open source software, online services and public st
 * [Tinystatus](https://github.com/bderenzo/tinystatus) - A tiny static status page generator (written in pure shell)
 
 ## Services
-* [Statuspal](https://statuspal.io) - Hosted status pages & monitoring.
-* [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
+* [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
 * ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha *(Discontinued)*~~
 * [FreshStatus](https://www.freshworks.com/statuspage/)
+* [HetrixTools](https://hetrixtools.com) - uptime monitoring for ips and websites with an integrated status page
+* [Hexadecimal](https://tryhexadecimal.com) - uptime & certificate monitoring and hosted status pages
 * [Hund](https://hund.io/)
+* [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * [LambStatus](https://lambstatus.github.io/)
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
 * [ping2me](https://www.ping2me.io/) - monitor endpoints to make sure that they are online.
+* [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Sorry™](https://www.sorryapp.com)
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
 * [Status.io](https://status.io)
 * [StatusKeeper](https://statuskeeper.com/)
 * [StatusKit](https://statuskit.com/)
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
+* [Statuspal](https://statuspal.io) - Hosted status pages & monitoring.
 * ~~[Statusy](https://statusy.co) *(Discontinued)*~~
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [Uptime Robot](https://uptimerobot.com/)
-* [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
-* [HetrixTools](https://hetrixtools.com) - uptime monitoring for ips and websites with an integrated status page
-* [Hexadecimal](https://tryhexadecimal.com) - uptime & certificate monitoring and hosted status pages
-* [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
+* [UptimeToolbox](https://www.uptimetoolbox.com/) - Website/Server monitors with status pages.
 
 ## Public status pages
 * [Adobe System Status](https://status.adobe.com/) - Adobe services status
