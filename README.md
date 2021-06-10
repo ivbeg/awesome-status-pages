@@ -39,7 +39,7 @@ Awesome list of status pages open source software, online services and public st
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
 * ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha *(Discontinued)*~~
-* [Better Uptime](https://betteruptime.com) - Uptime monitoring, on-call alerting, and status pages - all in one
+* [Better Uptime](https://betteruptime.com) - Uptime monitoring, on-call alerting, and status pages
 * [FreshStatus](https://www.freshworks.com/statuspage/)
 * [HetrixTools](https://hetrixtools.com) - uptime monitoring for ips and websites with an integrated status page
 * [Hexadecimal](https://tryhexadecimal.com) - uptime & certificate monitoring and hosted status pages
