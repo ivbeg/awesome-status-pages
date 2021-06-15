@@ -21,7 +21,7 @@ Awesome list of status pages open source software, online services and public st
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
 * [Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page
 * [Statping](https://github.com/hunterlong/statping)
-* [Statsig's Status Page](https://github.com/statsig-io/statuspage) - A simple, pure html/js status page powered by GitHub Pages and Actions.
+* [Statsig's Status Page](https://github.com/statsig-io/statuspage) - A simple, pure html/js, zero-dependency status page powered by GitHub Pages and Actions.
 * [Statusfy](https://marquez.co/statusfy)
 * [StatusOK](https://github.com/sanathp/statusok)
 * [statuspage](https://github.com/darkpixel/statuspage) - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/))
