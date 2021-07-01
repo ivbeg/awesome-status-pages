@@ -35,6 +35,9 @@ Awesome list of status pages open source software, online services and public st
 * [Uptimon](https://github.com/RatherLogical/Uptimon) - A PHP powered status page/monitoring solution.
 * [Tinystatus](https://github.com/bderenzo/tinystatus) - A tiny static status page generator (written in pure shell)
 
+## Self-Hosted
+* [LIVCK](https://livck.com)
+
 ## Services
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
