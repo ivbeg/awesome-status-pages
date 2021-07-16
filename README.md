@@ -15,7 +15,7 @@ Awesome list of status pages open source software, online services and public st
 * [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard
 * [Issue Status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
 * [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
-* [LambStatus](https://lambstatus.github.io) (*Deprecated*)
+* ~~[LambStatus](https://lambstatus.github.io)~~ *(Discontinued / Un-Supported)*
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
 * [Server-Status](https://github.com/Pryx/server-status)
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
@@ -39,14 +39,14 @@ Awesome list of status pages open source software, online services and public st
 ## Services
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
-* ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha *(Discontinued)*~~
+* ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha~~ *(Discontinued)*
 * [Better Uptime](https://betteruptime.com) - Uptime monitoring, on-call alerting, and status pages
 * [FreshStatus](https://www.freshworks.com/statuspage/)
 * [HetrixTools](https://hetrixtools.com) - uptime monitoring for ips and websites with an integrated status page
 * [Hexadecimal](https://tryhexadecimal.com) - uptime & certificate monitoring and hosted status pages
 * [Hund](https://hund.io/)
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
-* [LambStatus](https://lambstatus.github.io/)
+* ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
 * [ping2me](https://www.ping2me.io/) - monitor endpoints to make sure that they are online.
