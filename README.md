@@ -35,6 +35,7 @@ Awesome list of status pages open source software, online services and public st
 * [Upptime](https://github.com/upptime/upptime) - monitor and status page powered by GitHub
 * [Uptimon](https://github.com/RatherLogical/Uptimon) - A PHP powered status page/monitoring solution.
 * [Tinystatus](https://github.com/bderenzo/tinystatus) - A tiny static status page generator (written in pure shell)
+* [p.mume](https://github.com/star-inc/p.mume) - All static status page system, powered by CI and Vue.
 
 ## Services
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
