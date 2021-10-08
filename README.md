@@ -43,6 +43,7 @@ Awesome list of status pages open source software, online services and public st
 * ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha~~ *(Discontinued)*
 * [Better Uptime](https://betteruptime.com) - Uptime monitoring, on-call alerting, and status pages
 * [FreshStatus](https://www.freshworks.com/statuspage/)
+* [Fyipe](https://fyipe.com/product/public-status-page) - Fyipe public and private status pages
 * [HetrixTools](https://hetrixtools.com) - uptime monitoring for ips and websites with an integrated status page
 * [Hexadecimal](https://tryhexadecimal.com) - uptime & certificate monitoring and hosted status pages
 * [Hund](https://hund.io/)
@@ -56,6 +57,7 @@ Awesome list of status pages open source software, online services and public st
 * [Sorry™](https://www.sorryapp.com)
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
 * [Status.io](https://status.io)
+* [StatusCast](https://statuscast.com/)
 * [StatusKeeper](https://statuskeeper.com/)
 * [StatusKit](https://statuskit.com/)
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
@@ -69,13 +71,15 @@ Awesome list of status pages open source software, online services and public st
 * [Adobe System Status](https://status.adobe.com/) - Adobe services status
 * [Akamai Status](https://cloudharmony.com/status-for-akamai) - Akamai Service Status
 * [Amazon AWS Service health dashboard](https://status.aws.amazon.com/)
+* [Apple Developer Status](https://developer.apple.com/system-status/) - status page of Apple Developer services ecosystem
 * [Apple Support System Status](https://www.apple.com/support/systemstatus/) - Apple support status
 * [Box Status](https://status.box.com/) - Box.net status
 * [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare System Status
 * [CloudFront Status](https://cloudharmony.com/status-of-cdn-for-aws) - Amazon CloudFront Service Status
 * [Datadog Status](https://status.datadoghq.com/) - the status of Datadog.
 * [DigitalOcean Status](https://status.digitalocean.com/) - DigitalOcean Status page
-* [Discord App Status](https://status.discordapp.com/) - Discord App (videoconferencing, audioconferencing) status page
+* [Discord App Status](https://discordstatus.com/) - Discord App (videoconferencing, audioconferencing) status page
+* [Dropbox Status](https://status.dropbox.com/) - Dropbox service status page
 * [Facebook Platform Status](https://developers.facebook.com/status/dashboard/) - Facebook platform status page
 * [Fastly Status Page](https://status.fastly.com/) - Fastly Status
 * [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
@@ -84,6 +88,7 @@ Awesome list of status pages open source software, online services and public st
 * [Google Cloud Status](https://status.cloud.google.com/) - Status of Google Cloud
 * [Google GSuite Appstatus](https://www.google.com/appsstatus) - Google Applications (G Suite) online status page
 * [Heroku Status](https://status.heroku.com/) - Heroku status page
+* [Mail.ru cloud Status](https://status.mcs.mail.ru/) - Mail.ru Cloud Solutions status page
 * [Microsoft Advertizement Status](https://status.ads.microsoft.com/) - Microsoft Advertizement status page
 * [Microsoft Azure Status](https://status.azure.com/ru-ru/status) - Microsoft Azure status page
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
@@ -93,6 +98,9 @@ Awesome list of status pages open source software, online services and public st
 * [reddit Status](https://www.redditstatus.com/) - reddit Social Media status page
 * [Skype Status](https://support.skype.com/en/status/) - Microsoft Skype Status page
 * [Slack Status](https://status.slack.com/) - Slack, chat platform, status page
+* [Sony Playstation](https://status.playstation.com/) - Sony Playstation status page
 * [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
+* [Vkontakte platform status](https://vk.com/dev.php?method=health) - Vkontakte (Russian based major social network) status page
 * [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Graphana based status page replacement for Wikipedia
+* [Yandex.Cloud Status](https://status.cloud.yandex.ru/) - Yandex.Cloud services status page
 * [Zoom Cloud Status](https://status.zoom.us/) - Zoom (videoconferencing) status page
