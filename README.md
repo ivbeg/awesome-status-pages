@@ -56,6 +56,7 @@ Awesome list of status pages open source software, online services and public st
 * [ping2me](https://www.ping2me.io/) - monitor endpoints to make sure that they are online.
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
+* [Sematext Cloud](https://sematext.com/) - public & private status pages with incidents, uptime metrics and charts offered as part of [Sematext Synthetics](https://sematext.com/synthetic-monitoring)
 * [Sorry™](https://www.sorryapp.com)
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
 * [Status.io](https://status.io)
