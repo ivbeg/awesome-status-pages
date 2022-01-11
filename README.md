@@ -73,7 +73,9 @@ Awesome list of status pages open source software, online services and public st
 ## Public status pages
 * [Adobe System Status](https://status.adobe.com/) - Adobe services status
 * [Akamai Status](https://cloudharmony.com/status-for-akamai) - Akamai Service Status
+* [Alibaba Cloud condition monitoring](https://status.alibabacloud.com/) - The following is the main Alibaba Cloud products and services health monitoring data.
 * [Amazon AWS Service health dashboard](https://status.aws.amazon.com/)
+* [Atlassian cloud dashboard](https://status.atlassian.com/) - status page of Atlassian cloud services and public websites
 * [Apple Developer Status](https://developer.apple.com/system-status/) - status page of Apple Developer services ecosystem
 * [Apple Support System Status](https://www.apple.com/support/systemstatus/) - Apple support status
 * [Box Status](https://status.box.com/) - Box.net status
@@ -83,6 +85,7 @@ Awesome list of status pages open source software, online services and public st
 * [DigitalOcean Status](https://status.digitalocean.com/) - DigitalOcean Status page
 * [Discord App Status](https://discordstatus.com/) - Discord App (videoconferencing, audioconferencing) status page
 * [Dropbox Status](https://status.dropbox.com/) - Dropbox service status page
+* [Facebook for Business Status](https://status.fb.com/) - Facebook platform status page
 * [Facebook Platform Status](https://developers.facebook.com/status/dashboard/) - Facebook platform status page
 * [Fastly Status Page](https://status.fastly.com/) - Fastly Status
 * [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
@@ -95,10 +98,12 @@ Awesome list of status pages open source software, online services and public st
 * [Microsoft Advertizement Status](https://status.ads.microsoft.com/) - Microsoft Advertizement status page
 * [Microsoft Azure Status](https://status.azure.com/ru-ru/status) - Microsoft Azure status page
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
+* [Oracle Cloud Infrastructure](https://ocistatus.oraclecloud.com/) - Oracle Cloud Infrastructure status page
 * [Paypal Status Page](https://www.paypal-status.com/product/production)
 * [Pinterest Status Page](https://www.pintereststatus.com/)
 * [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
 * [reddit Status](https://www.redditstatus.com/) - reddit Social Media status page
+* [Salesforce Status](https://status.salesforce.com/) - Salesforce service availability and performance for Salesforce products.
 * [Skype Status](https://support.skype.com/en/status/) - Microsoft Skype Status page
 * [Slack Status](https://status.slack.com/) - Slack, chat platform, status page
 * [Sony Playstation](https://status.playstation.com/) - Sony Playstation status page
@@ -106,4 +111,5 @@ Awesome list of status pages open source software, online services and public st
 * [Vkontakte platform status](https://vk.com/dev.php?method=health) - Vkontakte (Russian based major social network) status page
 * [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Graphana based status page replacement for Wikipedia
 * [Yandex.Cloud Status](https://status.cloud.yandex.ru/) - Yandex.Cloud services status page
+* [Zendesk Status](https://status.zendesk.com/) - Zendesk status page
 * [Zoom Cloud Status](https://status.zoom.us/) - Zoom (videoconferencing) status page
