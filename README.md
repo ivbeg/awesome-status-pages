@@ -75,6 +75,7 @@ Awesome list of status pages open source software, online services and public st
 * [Akamai Status](https://cloudharmony.com/status-for-akamai) - Akamai Service Status
 * [Alibaba Cloud condition monitoring](https://status.alibabacloud.com/) - The following is the main Alibaba Cloud products and services health monitoring data.
 * [Amazon AWS Service health dashboard](https://status.aws.amazon.com/)
+* [Amplitude status page](https://status.amplitude.com/) - Digital optimisation system status page
 * [Atlassian cloud dashboard](https://status.atlassian.com/) - status page of Atlassian cloud services and public websites
 * [Apple Developer Status](https://developer.apple.com/system-status/) - status page of Apple Developer services ecosystem
 * [Apple Support System Status](https://www.apple.com/support/systemstatus/) - Apple support status
