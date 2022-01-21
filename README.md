@@ -51,6 +51,7 @@ Awesome list of status pages open source software, online services and public st
 * [Hund](https://hund.io/)
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
+* [LIVCK](https://livck.com) - Monitoring with private/public statuspage
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
 * [ping2me](https://www.ping2me.io/) - monitor endpoints to make sure that they are online.
