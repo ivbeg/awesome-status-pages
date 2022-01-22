@@ -49,6 +49,7 @@ Awesome list of status pages open source software, online services and public st
 * [HetrixTools](https://hetrixtools.com) - uptime monitoring for ips and websites with an integrated status page
 * [Hexadecimal](https://tryhexadecimal.com) - uptime & certificate monitoring and hosted status pages
 * [Hund](https://hund.io/)
+* [Hyperping.io](https://hyperping.io) - Public & private status pages with built-in monitoring.
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
