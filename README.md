@@ -81,6 +81,7 @@ Awesome list of status pages open source software, online services and public st
 * [Atlassian cloud dashboard](https://status.atlassian.com/) - status page of Atlassian cloud services and public websites
 * [Apple Developer Status](https://developer.apple.com/system-status/) - status page of Apple Developer services ecosystem
 * [Apple Support System Status](https://www.apple.com/support/systemstatus/) - Apple support status
+* [AppsFlyer](http://status.appsflyer.com/) - Apps Flyer (marketing app) support status
 * [Box Status](https://status.box.com/) - Box.net status
 * [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare System Status
 * [CloudFront Status](https://cloudharmony.com/status-of-cdn-for-aws) - Amazon CloudFront Service Status
