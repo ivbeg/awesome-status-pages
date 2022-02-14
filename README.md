@@ -45,7 +45,7 @@ Awesome list of status pages open source software, online services and public st
 * [Better Uptime](https://betteruptime.com) - Uptime monitoring, on-call alerting, and status pages
 * [Checkly](https://www.checklyhq.com) - API & E2E monitoring platform
 * [FreshStatus](https://www.freshworks.com/statuspage/)
-* [Fyipe](https://fyipe.com/product/public-status-page) - Fyipe public and private status pages
+* [OneUptime](https://oneuptime.com/product/public-status-page) - OneUptime public and private status pages
 * [HetrixTools](https://hetrixtools.com) - uptime monitoring for ips and websites with an integrated status page
 * [Hexadecimal](https://tryhexadecimal.com) - uptime & certificate monitoring and hosted status pages
 * [Hund](https://hund.io/)
