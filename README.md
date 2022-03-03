@@ -55,7 +55,6 @@ Awesome list of status pages open source software, online services and public st
 * [LIVCK](https://livck.com) - Monitoring with private/public statuspage
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
-* [ping2me](https://www.ping2me.io/) - monitor endpoints to make sure that they are online.
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
 * [Sematext Cloud](https://sematext.com/) - public & private status pages with incidents, uptime metrics and charts offered as part of [Sematext Synthetics](https://sematext.com/synthetic-monitoring)
