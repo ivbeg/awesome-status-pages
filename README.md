@@ -57,6 +57,7 @@ Awesome list of status pages open source software, online services and public st
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
+* [Pulsetic](https://pulsetic.com/) - create beautiful status pages & incident management reports and keep your visitors updated
 * [Sematext Cloud](https://sematext.com/) - public & private status pages with incidents, uptime metrics and charts offered as part of [Sematext Synthetics](https://sematext.com/synthetic-monitoring)
 * [Sorry™](https://www.sorryapp.com)
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
@@ -72,6 +73,7 @@ Awesome list of status pages open source software, online services and public st
 * [UptimeToolbox](https://www.uptimetoolbox.com/) - Website/Server monitors with status pages.
 
 ## Public status pages
+* [Absurd Design](https://status.absurd.design/) - Absurd Design status
 * [Adobe System Status](https://status.adobe.com/) - Adobe services status
 * [Akamai Status](https://cloudharmony.com/status-for-akamai) - Akamai Service Status
 * [Alibaba Cloud condition monitoring](https://status.alibabacloud.com/) - The following is the main Alibaba Cloud products and services health monitoring data.
@@ -85,6 +87,7 @@ Awesome list of status pages open source software, online services and public st
 * [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare System Status
 * [CloudFront Status](https://cloudharmony.com/status-of-cdn-for-aws) - Amazon CloudFront Service Status
 * [Datadog Status](https://status.datadoghq.com/) - the status of Datadog.
+* [Designmodo Status](https://status.designmodo.com/) - the status of Designmodo.
 * [DigitalOcean Status](https://status.digitalocean.com/) - DigitalOcean Status page
 * [Discord App Status](https://discordstatus.com/) - Discord App (videoconferencing, audioconferencing) status page
 * [Dropbox Status](https://status.dropbox.com/) - Dropbox service status page
