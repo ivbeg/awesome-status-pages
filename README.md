@@ -83,9 +83,12 @@ Awesome list of status pages open source software, online services and public st
 * [Apple Developer Status](https://developer.apple.com/system-status/) - status page of Apple Developer services ecosystem
 * [Apple Support System Status](https://www.apple.com/support/systemstatus/) - Apple support status
 * [AppsFlyer](http://status.appsflyer.com/) - Apps Flyer (marketing app) support status
-* [Box Status](https://status.box.com/) - Box.net status
+* [BambooHR](https://status.bamboohr.com/) - BambooHR status page
+* [BigQuery](https://status.cloud.google.com/) - BigQuery status page
+* [Box Status](https://status.box.com/) - Box.net status page
 * [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare System Status
 * [CloudFront Status](https://cloudharmony.com/status-of-cdn-for-aws) - Amazon CloudFront Service Status
+* [Crowdin](https://status.crowdin.com/) - CrowdIn status page
 * [Datadog Status](https://status.datadoghq.com/) - the status of Datadog.
 * [Designmodo Status](https://status.designmodo.com/) - the status of Designmodo.
 * [DigitalOcean Status](https://status.digitalocean.com/) - DigitalOcean Status page
@@ -97,14 +100,20 @@ Awesome list of status pages open source software, online services and public st
 * [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
 * [GitHub Status](https://status.github.com/) - GitHub status page
 * [GitLab System Status](https://status.gitlab.com) - GitLab status page
+* [Google Ads](https://ads.google.com/status/publisher/) - Google Ads status page
 * [Google Cloud Status](https://status.cloud.google.com/) - Status of Google Cloud
 * [Google GSuite Appstatus](https://www.google.com/appsstatus) - Google Applications (G Suite) online status page
+* [Grammarly](https://status.grammarly.com/) - Grammarly status page
 * [Heroku Status](https://status.heroku.com/) - Heroku status page
+* [HubSpot](https://status.hubspot.com/) - HubSpot status page
+* [Jitterbit](https://trust.jitterbit.com/) - JitterBit Page status page
+* [LucidApp](https://trust.jitterbit.com/) - LucidChart status page
 * [Mail.ru cloud Status](https://status.mcs.mail.ru/) - Mail.ru Cloud Solutions status page
 * [Microsoft Advertizement Status](https://status.ads.microsoft.com/) - Microsoft Advertizement status page
 * [Microsoft Azure Status](https://status.azure.com/ru-ru/status) - Microsoft Azure status page
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
 * [Oracle Cloud Infrastructure](https://ocistatus.oraclecloud.com/) - Oracle Cloud Infrastructure status page
+* [Odoo](https://www.saashub.com/odoo-status) - Odoo Status page on 3rd-party page
 * [Paypal Status Page](https://www.paypal-status.com/product/production)
 * [Pinterest Status Page](https://www.pintereststatus.com/)
 * [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
@@ -112,8 +121,10 @@ Awesome list of status pages open source software, online services and public st
 * [Salesforce Status](https://status.salesforce.com/) - Salesforce service availability and performance for Salesforce products.
 * [Skype Status](https://support.skype.com/en/status/) - Microsoft Skype Status page
 * [Slack Status](https://status.slack.com/) - Slack, chat platform, status page
+* [Sumsub](https://status.sumsub.com/) - SumSub status page
 * [Sony Playstation](https://status.playstation.com/) - Sony Playstation status page
 * [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
+* [Udemy](https://status.udemy.com/) - Udemy status page
 * [Vkontakte platform status](https://vk.com/dev.php?method=health) - Vkontakte (Russian based major social network) status page
 * [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Graphana based status page replacement for Wikipedia
 * [Yandex.Cloud Status](https://status.cloud.yandex.ru/) - Yandex.Cloud services status page
