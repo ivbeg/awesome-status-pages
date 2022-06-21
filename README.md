@@ -23,7 +23,7 @@ Awesome list of status pages open source software, online services and public st
 * [Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page
 * [statping-ng](https://github.com/statping-ng/statping-ng) - Actively maintained fork of [statping/statping](https://github.com/statping/statping)
 * [Statsig's Status Page](https://github.com/statsig-io/statuspage) - A simple, pure html/js, zero-dependency status page powered by GitHub Pages and Actions.
-* [Statusfy](https://marquez.co/statusfy)
+* ~~[Statusfy](https://marquez.co/statusfy)~~ *(Discontinued / Un-Supported)*
 * [StatusOK](https://github.com/sanathp/statusok)
 * [statuspage](https://github.com/darkpixel/statuspage) - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/))
 * [Staytus](https://staytus.co/)  (*Deprecated*)
