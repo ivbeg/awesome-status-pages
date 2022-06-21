@@ -118,6 +118,7 @@ Awesome list of status pages open source software, online services and public st
 * [Pinterest Status Page](https://www.pintereststatus.com/)
 * [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
 * [reddit Status](https://www.redditstatus.com/) - reddit Social Media status page
+* [Repetiti Status](https://status.repetiti.com/) - Repetiti 3d Printer Management Service status page
 * [Salesforce Status](https://status.salesforce.com/) - Salesforce service availability and performance for Salesforce products.
 * [Skype Status](https://support.skype.com/en/status/) - Microsoft Skype Status page
 * [Slack Status](https://status.slack.com/) - Slack, chat platform, status page
