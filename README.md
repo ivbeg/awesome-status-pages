@@ -42,6 +42,7 @@ Awesome list of status pages open source software, online services and public st
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
 * ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha~~ *(Discontinued)*
+* [Odown](https://odown.io) - Public Status Pages with built-in monitoring for websites and APIs
 * [Better Uptime](https://betteruptime.com) - Uptime monitoring, on-call alerting, and status pages
 * [Checkly](https://www.checklyhq.com) - API & E2E monitoring platform
 * [Cronitor.io](https://cronitor.io/status-pages) - Status Pages with built-in monitoring for websites, APIs, cron jobs and heartbeats.
