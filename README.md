@@ -94,7 +94,7 @@ Awesome list of status pages open source software, online services and public st
 * [Datadog Status](https://status.datadoghq.com/) - the status of Datadog.
 * [Designmodo Status](https://status.designmodo.com/) - the status of Designmodo.
 * [DigitalOcean Status](https://status.digitalocean.com/) - DigitalOcean Status page
-* [Discord App Status](https://discordstatus.com/) - Discord App (videoconferencing, audioconferencing) status page
+* [Discord App Status](https://discordstatus.com/) - Discord App (video conferencing & audio conferencing) status page
 * [Dropbox Status](https://status.dropbox.com/) - Dropbox service status page
 * [Facebook for Business Status](https://status.fb.com/) - Facebook platform status page
 * [Facebook Platform Status](https://developers.facebook.com/status/dashboard/) - Facebook platform status page
@@ -104,14 +104,14 @@ Awesome list of status pages open source software, online services and public st
 * [GitLab System Status](https://status.gitlab.com) - GitLab status page
 * [Google Ads](https://ads.google.com/status/publisher/) - Google Ads status page
 * [Google Cloud Status](https://status.cloud.google.com/) - Status of Google Cloud
-* [Google GSuite Appstatus](https://www.google.com/appsstatus) - Google Applications (G Suite) online status page
+* [Google Workspace Status](https://www.google.com/appsstatus) - Google Workspace (formerly G Suite) online status page
 * [Grammarly](https://status.grammarly.com/) - Grammarly status page
 * [Heroku Status](https://status.heroku.com/) - Heroku status page
 * [HubSpot](https://status.hubspot.com/) - HubSpot status page
 * [Jitterbit](https://trust.jitterbit.com/) - JitterBit Page status page
 * [LucidApp](https://trust.jitterbit.com/) - LucidChart status page
 * [Mail.ru cloud Status](https://status.mcs.mail.ru/) - Mail.ru Cloud Solutions status page
-* [Microsoft Advertizement Status](https://status.ads.microsoft.com/) - Microsoft Advertizement status page
+* [Microsoft Advertisement Status](https://status.ads.microsoft.com/) - Microsoft Advertisement status page
 * [Microsoft Azure Status](https://status.azure.com/ru-ru/status) - Microsoft Azure status page
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
 * [Oracle Cloud Infrastructure](https://ocistatus.oraclecloud.com/) - Oracle Cloud Infrastructure status page
@@ -129,7 +129,7 @@ Awesome list of status pages open source software, online services and public st
 * [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
 * [Udemy](https://status.udemy.com/) - Udemy status page
 * [Vkontakte platform status](https://vk.com/dev.php?method=health) - Vkontakte (Russian based major social network) status page
-* [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Graphana based status page replacement for Wikipedia
+* [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Grafana based status page replacement for Wikipedia
 * [Yandex.Cloud Status](https://status.cloud.yandex.ru/) - Yandex.Cloud services status page
 * [Zendesk Status](https://status.zendesk.com/) - Zendesk status page
 * [Zoom Cloud Status](https://status.zoom.us/) - Zoom (videoconferencing) status page
