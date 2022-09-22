@@ -124,6 +124,7 @@ Awesome list of status pages open source software, online services and public st
 * [Salesforce Status](https://status.salesforce.com/) - Salesforce service availability and performance for Salesforce products.
 * [Skype Status](https://support.skype.com/en/status/) - Microsoft Skype Status page
 * [Slack Status](https://status.slack.com/) - Slack, chat platform, status page
+* [Stripe Status](https://status.stripe.com/) - Stripe system status page
 * [Sumsub](https://status.sumsub.com/) - SumSub status page
 * [Sony Playstation](https://status.playstation.com/) - Sony Playstation status page
 * [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
