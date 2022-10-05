@@ -1,0 +1,211 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    @apply font-extrabold;
+  }
+
+  h1 {
+    @apply text-4xl;
+  }
+
+  h2 {
+    @apply text-3xl;
+  }
+
+  h3 {
+    @apply text-2xl;
+  }
+
+  h4 {
+    @apply text-xl;
+  }
+
+  ul {
+    @apply list-inside;
+    @apply list-disc;
+    @apply pl-1;
+  }
+
+  a {
+    @apply text-blue-200 font-medium hover:underline;
+  }
+}
+
+html,
+body {
+  @apply antialiased;
+  direction: ltr;
+  text-align: left;
+  overflow-x: hidden;
+  @apply bg-gray-900 text-gray-300;
+}
+
+.highlight-gradient {
+  @apply bg-gradient-to-tr;
+  @apply from-red-500;
+  @apply to-indigo-700;
+  @apply text-transparent;
+  @apply box-decoration-clone;
+  @apply bg-clip-text;
+}
+
+.highlight-gradient-dark-bg {
+  @apply bg-gradient-to-tr;
+  @apply from-red-500;
+  @apply to-indigo-400;
+  @apply text-transparent;
+  @apply box-decoration-clone;
+  @apply bg-clip-text;
+}
+
+/* Markdown */
+.markdown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4,
+.markdown h5 {
+  @apply mt-12;
+  @apply mb-8;
+}
+
+.markdown h1 {
+  @apply highlight-gradient-dark-bg flex flex-wrap justify-start items-center gap-x-4;
+}
+
+.markdown p,
+.markdown li,
+.markdown p a {
+  @apply md:text-lg;
+}
+
+.markdown p,
+.markdown blockquote,
+.markdown ul,
+.markdown ol,
+.markdown hr,
+.markdown .code-block {
+  @apply mb-8;
+}
+
+.markdown .markdown-table-wrap {
+  @apply mt-14 mb-14;
+}
+
+.markdown img {
+  /* Extra bottom margin specified in + em */
+  @apply mt-14 mb-10;
+}
+
+.markdown blockquote {
+  @apply bg-blue-50;
+  @apply px-3;
+  @apply py-2;
+  @apply border;
+  @apply border-blue-100;
+  @apply sm:rounded-md;
+}
+
+.markdown blockquote p {
+  @apply p-0;
+  @apply m-0;
+  @apply text-blue-900;
+}
+
+.markdown img {
+  @apply w-full;
+}
+
+.markdown-image-wrapper + em a {
+  @apply text-sm px-1;
+}
+.markdown-image-wrapper + em {
+  @apply w-full;
+  @apply flex;
+  @apply flex-row;
+  @apply justify-center;
+  @apply items-center;
+  @apply text-center;
+  @apply text-sm;
+  @apply mb-14;
+  transform: translateY(-0.8rem);
+  font-style: normal;
+  @apply text-gray-500;
+}
+
+.markdown li {
+  @apply mb-3;
+}
+
+.markdown ul {
+  @apply pl-8 list-outside list-disc;
+}
+
+.markdown ol {
+  @apply pl-8 list-outside list-decimal;
+}
+
+.markdown .markdown-table-wrap {
+  @apply overflow-x-scroll;
+  @apply border;
+  @apply border-gray-200;
+  @apply rounded-md;
+  /*@apply tracking-wider;*/
+}
+
+.markdown table {
+  @apply table-auto;
+  @apply min-w-full;
+  @apply divide-y;
+  @apply divide-gray-200;
+}
+
+.markdown table thead {
+  @apply bg-gray-50;
+}
+
+.markdown table th {
+  @apply px-3;
+  @apply py-3;
+  @apply text-left;
+  @apply text-sm;
+  @apply font-semibold;
+  @apply text-gray-300;
+}
+
+.markdown table tbody {
+  @apply bg-white;
+  @apply divide-y;
+  @apply divide-gray-200;
+}
+
+.markdown table td {
+  @apply text-left;
+  @apply px-3;
+  @apply py-3;
+  @apply whitespace-nowrap;
+  @apply text-sm;
+  @apply font-medium;
+  @apply text-gray-100;
+}
+
+:not(pre) > code {
+  @apply bg-gray-100;
+  @apply px-1;
+  @apply rounded-sm;
+  @apply border;
+}
+
+.code-block pre {
+  @apply rounded;
+}
+
+hr {
+  @apply border-blue-300 opacity-50;
+}
