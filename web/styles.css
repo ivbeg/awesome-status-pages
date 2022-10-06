@@ -88,6 +88,10 @@ body {
   @apply highlight-gradient-dark-bg flex flex-wrap justify-start items-center gap-x-4;
 }
 
+.markdown h1 img {
+  @apply mx-1 my-4;
+}
+
 .markdown p,
 .markdown li,
 .markdown p a {

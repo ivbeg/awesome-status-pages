@@ -28,7 +28,7 @@ export default function Home({ content }) {
       <hr className="my-14" />
 
       <footer>
-        <div className="text-sm flex flex-row text-center justify-center items-center mt-5 mb-10 space-x-4">
+        <div className="text-sm flex flex-col lg:flex-row text-center justify-center items-center mt-5 mb-10 space-x-4 space-y-4 lg:space-y-0">
           <a
             href="https://cronitor.io"
             target="_blank"
