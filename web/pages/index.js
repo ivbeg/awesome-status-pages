@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Markdown from "../components/Markdown";
-import {readFileSync} from "fs";
+import { readFileSync } from "fs";
 import path from "path";
 
 export default function Home({ content }) {
@@ -20,33 +20,34 @@ export default function Home({ content }) {
       <footer>
         <div className="text-sm flex flex-row text-center justify-center items-center mt-5 mb-10 space-x-4">
           <a
-            href="https://github.com/ivbeg/awesome-status-pages"
-            target="_blank"
-            rel="noopener"
-            className="hover:no-underline w-full flex flex-row justify-center items-center space-x-1.5"
-          >
-            <span>ivbeg/awesome-status-pages</span>{" "}
-            <img
-              alt="GitHub"
-              src="/github-logo.svg"
-              className="w-auto h-4 invert"
-              width="100%"
-              height={3.5}
-            />
-          </a>
-          <a
             href="https://cronitor.io"
             target="_blank"
             rel="noopener"
             className="hover:no-underline w-full flex flex-row justify-center items-center space-x-1.5"
           >
-            <span>Sponsored by </span>{" "}
+            <span>Website made with ❤️ by </span>{" "}
             <img
               alt="Cronitor"
               src="/cronitor-logo.svg"
               className="w-auto h-3.5"
               width="100%"
               height={3.5}
+            />
+          </a>
+          <a
+            href="https://github.com/ivbeg/awesome-status-pages"
+            target="_blank"
+            rel="noopener"
+            className="hover:no-underline w-full flex flex-row justify-center items-center space-x-1.5"
+          >
+            <span>Based on:</span>{" "}
+            <span className="font-bold text-gray-100">ivbeg/awesome-status-pages</span>{" "}
+            <img
+              alt="GitHub"
+              src="/github-logo.svg"
+              className="w-auto h-4 invert"
+              width="100%"
+              height={4}
             />
           </a>
         </div>
