@@ -9,6 +9,7 @@ export default function Home({ content }) {
       <Head>
         <title>Awesome Status Pages</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="description" content="Awesome list of status pages open source software, online services and public status pages of major internet companies" />
         <meta property="og:url" content="https://awesome-statuspages.com" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Awesome Status Pages" />
