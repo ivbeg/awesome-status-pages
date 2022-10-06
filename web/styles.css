@@ -3,6 +3,14 @@
 @tailwind utilities;
 
 @layer base {
+  @font-face {
+    font-family: "Orbitron";
+    font-style: normal;
+    font-weight: 100 900;
+    src: local("Orbitron"), url(/fonts/Orbitron-Variable.ttf) format("truetype");
+    font-display: swap;
+  }
+
   h1,
   h2,
   h3,
@@ -12,7 +20,8 @@
   }
 
   h1 {
-    @apply text-4xl;
+    @apply text-4xl lowercase;
+    font-family: Orbitron, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont;
   }
 
   h2 {
@@ -58,7 +67,7 @@ body {
 
 .highlight-gradient-dark-bg {
   @apply bg-gradient-to-tr;
-  @apply from-red-500;
+  @apply from-red-400;
   @apply to-indigo-400;
   @apply text-transparent;
   @apply box-decoration-clone;
