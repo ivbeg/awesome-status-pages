@@ -9,13 +9,22 @@ export default function Home({ content }) {
       <Head>
         <title>Awesome Status Pages</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta property="og:url" content="https://awesome-statuspages.com" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Awesome Status Pages" />
+        <meta name="twitter:card" content="summary" />
+        <meta
+          property="og:description"
+          content="Awesome list of status pages open source software, online services and public status pages of major internet companies"
+        />
+        <meta property="og:image" content="https://awesome-statuspages.com/social.png" />
       </Head>
 
       <main>
         <Markdown content={content} />
       </main>
 
-      <hr className=" my-14" />
+      <hr className="my-14" />
 
       <footer>
         <div className="text-sm flex flex-row text-center justify-center items-center mt-5 mb-10 space-x-4">
@@ -41,7 +50,9 @@ export default function Home({ content }) {
             className="hover:no-underline w-full flex flex-row justify-center items-center space-x-1.5"
           >
             <span>Based on:</span>{" "}
-            <span className="font-bold text-gray-100">ivbeg/awesome-status-pages</span>{" "}
+            <span className="font-bold text-gray-100">
+              ivbeg/awesome-status-pages
+            </span>{" "}
             <img
               alt="GitHub"
               src="/github-logo.svg"
