@@ -18,6 +18,7 @@ Awesome list of status pages open source software, online services and public st
 * [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
 * ~~[LambStatus](https://lambstatus.github.io)~~ *(Discontinued / Un-Supported)*
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
+* [Okazanta](https://github.com/Okazanta/Okazanta-core) - Modern open source status page software written in Laravel/PHP (fork of Cachet)
 * [Server-Status](https://github.com/Pryx/server-status)
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
 * [Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page
