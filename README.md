@@ -114,7 +114,7 @@ Awesome list of status pages open source software, online services and public st
 * [LucidApp](https://trust.jitterbit.com/) - LucidChart status page
 * [Mail.ru cloud Status](https://status.mcs.mail.ru/) - Mail.ru Cloud Solutions status page
 * [Microsoft Advertisement Status](https://status.ads.microsoft.com/) - Microsoft Advertisement status page
-* [Microsoft Azure Status](https://status.azure.com/ru-ru/status) - Microsoft Azure status page
+* [Microsoft Azure Status](https://status.azure.com/en-us/status) - Microsoft Azure status page
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
 * [Oracle Cloud Infrastructure](https://ocistatus.oraclecloud.com/) - Oracle Cloud Infrastructure status page
 * [Odoo](https://www.saashub.com/odoo-status) - Odoo Status page on 3rd-party page
