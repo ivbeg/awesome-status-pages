@@ -13,6 +13,7 @@ Awesome list of status pages open source software, online services and public st
 * [ciao](https://github.com/brotandgames/ciao) - checks HTTP(S) URL endpoints for a HTTP status code (or errors on the lower TCP stack) and sends a notification on status change via E-Mail or Webhooks.
 * ~~[Corestats](https://github.com/jayfk/statuspage)~~ - *(Discontinued / Un-Supported)*
 * [cState](https://github.com/cstate/cstate) - Simple, dev friendly, and free to host (Netlify & GitHub Pages)
+* [django-statusboard](https://github.com/edigiacomo/django-statusboard/) - Django status page application with browser and REST interface.
 * [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard
 * [Issue Status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
 * [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
