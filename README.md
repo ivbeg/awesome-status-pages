@@ -6,7 +6,7 @@ Awesome list of status pages open source software, online services and public st
 * [Opensource](#opensource)
 * [Services](#services)
 * [Public status pages](#public-status-pages)
-* [Hosting](#hosting)
+* [Hosting](#hosting-and-cloud)
 
 ## Opensource
 * ~~[Cachet](https://cachethq.io/)~~ - Laravel based status page system for everyone. *(Discontinued / Un-Supported)*
