@@ -6,6 +6,7 @@ Awesome list of status pages open source software, online services and public st
 * [Opensource](#opensource)
 * [Services](#services)
 * [Public status pages](#public-status-pages)
+* [Hosting](#hosting)
 
 ## Opensource
 * ~~[Cachet](https://cachethq.io/)~~ - Laravel based status page system for everyone. *(Discontinued / Un-Supported)*
@@ -80,8 +81,6 @@ Awesome list of status pages open source software, online services and public st
 * [Absurd Design](https://status.absurd.design/) - Absurd Design status
 * [Adobe System Status](https://status.adobe.com/) - Adobe services status
 * [Akamai Status](https://cloudharmony.com/status-for-akamai) - Akamai Service Status
-* [Alibaba Cloud condition monitoring](https://status.alibabacloud.com/) - The following is the main Alibaba Cloud products and services health monitoring data.
-* [Amazon AWS Service health dashboard](https://status.aws.amazon.com/)
 * [Amplitude status page](https://status.amplitude.com/) - Digital optimisation system status page
 * [Atlassian cloud dashboard](https://status.atlassian.com/) - status page of Atlassian cloud services and public websites
 * [Apple Developer Status](https://developer.apple.com/system-status/) - status page of Apple Developer services ecosystem
@@ -105,7 +104,6 @@ Awesome list of status pages open source software, online services and public st
 * [GitHub Status](https://status.github.com/) - GitHub status page
 * [GitLab System Status](https://status.gitlab.com) - GitLab status page
 * [Google Ads](https://ads.google.com/status/publisher/) - Google Ads status page
-* [Google Cloud Status](https://status.cloud.google.com/) - Status of Google Cloud
 * [Google Workspace Status](https://www.google.com/appsstatus) - Google Workspace (formerly G Suite) online status page
 * [Grammarly](https://status.grammarly.com/) - Grammarly status page
 * [Heroku Status](https://status.heroku.com/) - Heroku status page
@@ -114,9 +112,7 @@ Awesome list of status pages open source software, online services and public st
 * [LucidApp](https://trust.jitterbit.com/) - LucidChart status page
 * [Mail.ru cloud Status](https://status.mcs.mail.ru/) - Mail.ru Cloud Solutions status page
 * [Microsoft Advertisement Status](https://status.ads.microsoft.com/) - Microsoft Advertisement status page
-* [Microsoft Azure Status](https://status.azure.com/en-us/status) - Microsoft Azure status page
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
-* [Oracle Cloud Infrastructure](https://ocistatus.oraclecloud.com/) - Oracle Cloud Infrastructure status page
 * [Odoo](https://www.saashub.com/odoo-status) - Odoo Status page on 3rd-party page
 * [Paypal Status Page](https://www.paypal-status.com/product/production)
 * [Pinterest Status Page](https://www.pintereststatus.com/)
@@ -134,6 +130,23 @@ Awesome list of status pages open source software, online services and public st
 * [Udemy](https://status.udemy.com/) - Udemy status page
 * [Vkontakte platform status](https://vk.com/dev.php?method=health) - Vkontakte (Russian based major social network) status page
 * [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Grafana based status page replacement for Wikipedia
-* [Yandex.Cloud Status](https://status.cloud.yandex.ru/) - Yandex.Cloud services status page
 * [Zendesk Status](https://status.zendesk.com/) - Zendesk status page
 * [Zoom Cloud Status](https://status.zoom.us/) - Zoom (videoconferencing) status page
+
+## Hosting and Cloud
+* [Alibaba Cloud](https://status.alibabacloud.com/) - Alibaba Cloud status page
+* [AWS](https://status.aws.amazon.com/) - AWS status page
+* [Cloudways](https://status.cloudways.com) - Cloudways status page
+* [DigitalOcean](https://status.digitalocean.com) - DigitalOcean status page
+* [DomaiNesia](https://www.domainesia.com/status) - DomaiNesia status page
+* [Google Cloud](https://status.cloud.google.com/) - Google Cloud status page
+* [Hostinger](https://statuspage.hostinger.com) - Hostinger status page
+* [Kinsta](https://status.kinsta.com) - Kinsta status page
+* [Linode](https://status.linode.com) - Linode satus page
+* [Microsoft Azure](https://status.azure.com/en-us/status) - Microsoft Azure status page
+* [Oracle Cloud](https://ocistatus.oraclecloud.com/) - Oracle Cloud status page
+* [OVHcloud](https://www.status-ovhcloud.com) - OVHcloud status page
+* [Rackspace](https://status.apps.rackspace.com) - Rackspace status page
+* [UpCloud](https://status.upcloud.com) - UpCloud status page
+* [Vultr](https://status.vultr.com) - Vultr status page
+* [Yandex.Cloud](https://status.cloud.yandex.ru/) - Yandex.Cloud status page
