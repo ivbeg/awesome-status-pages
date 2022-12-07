@@ -127,6 +127,7 @@ Awesome list of status pages open source software, online services and public st
 * [Stripe Status](https://status.stripe.com/) - Stripe system status page
 * [Sumsub](https://status.sumsub.com/) - SumSub status page
 * [Sony Playstation](https://status.playstation.com/) - Sony Playstation status page
+* [Tailscale] (https://status.tailscale.com) - Tailscale status page
 * [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
 * [Udemy](https://status.udemy.com/) - Udemy status page
 * [Vkontakte platform status](https://vk.com/dev.php?method=health) - Vkontakte (Russian based major social network) status page
