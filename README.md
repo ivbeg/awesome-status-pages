@@ -124,6 +124,7 @@ Awesome list of status pages open source software, online services and public st
 * [Skype Status](https://support.skype.com/en/status/) - Microsoft Skype Status page
 * [Slack Status](https://status.slack.com/) - Slack, chat platform, status page
 * [Squdcast Status](https://status.squadcast.com/) - Squadcast Incident Management & Incident Response Status
+* [Steam Status (Unofficial)](https://steamstat.us/) - Steam status page. Popular, but unofficial; Valve doesn't have an official page.
 * [Stripe Status](https://status.stripe.com/) - Stripe system status page
 * [Sumsub](https://status.sumsub.com/) - SumSub status page
 * [Sony Playstation](https://status.playstation.com/) - Sony Playstation status page
