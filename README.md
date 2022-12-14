@@ -151,4 +151,5 @@ Awesome list of status pages open source software, online services and public st
 * [Rackspace](https://status.apps.rackspace.com) - Rackspace status page
 * [UpCloud](https://status.upcloud.com) - UpCloud status page
 * [Vultr](https://status.vultr.com) - Vultr status page
+* [Workspace ONE](https://status.workspaceone.com) - VMWARE Workspace ONE status page
 * [Yandex.Cloud](https://status.cloud.yandex.ru/) - Yandex.Cloud status page
