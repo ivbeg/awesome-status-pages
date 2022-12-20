@@ -40,6 +40,7 @@ Awesome list of status pages open source software, online services and public st
 * ~~[Uptimon](https://github.com/RatherLogical/Uptimon) - A PHP powered status page/monitoring solution.~~ *(Looks like project removed or set to private)*
 * [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - A self-hosted monitoring tool like "Uptime Robot".
 * [Tinystatus](https://github.com/bderenzo/tinystatus) - A tiny static status page generator (written in pure shell)
+* [Status-Page](https://github.com/Status-Page/Status-Page) - Self-hosted status page site written in Django
 
 ## Services
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
