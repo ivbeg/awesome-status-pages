@@ -106,6 +106,7 @@ Awesome list of status pages open source software, online services and public st
 * [GitHub Status](https://status.github.com/) - GitHub status page
 * [GitLab System Status](https://status.gitlab.com) - GitLab status page
 * [Google Ads](https://ads.google.com/status/publisher/) - Google Ads status page
+* [Google Search](https://status.search.google.com) - Google Search status page
 * [Google Workspace Status](https://www.google.com/appsstatus) - Google Workspace (formerly G Suite) online status page
 * [Grammarly](https://status.grammarly.com/) - Grammarly status page
 * [Heroku Status](https://status.heroku.com/) - Heroku status page
