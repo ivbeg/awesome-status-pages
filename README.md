@@ -41,6 +41,7 @@ Awesome list of status pages open source software, online services and public st
 * [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - A self-hosted monitoring tool like "Uptime Robot".
 * [Tinystatus](https://github.com/bderenzo/tinystatus) - A tiny static status page generator (written in pure shell)
 * [Status-Page](https://github.com/Status-Page/Status-Page) - Self-hosted status page site written in Django
+* [fettle](https://github.com/mehatab/fettle) - An open-source, GitHub-powered status page project utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management.
 
 ## Services
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
