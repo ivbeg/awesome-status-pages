@@ -117,6 +117,7 @@ Awesome list of status pages open source software, online services and public st
 * [Microsoft Advertisement Status](https://status.ads.microsoft.com/) - Microsoft Advertisement status page
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
 * [Odoo](https://www.saashub.com/odoo-status) - Odoo Status page on 3rd-party page
+* [OpenAI Status](https://status.openai.com/) - OpenAI's home for real-time and historical data on system performance 
 * [Paypal Status Page](https://www.paypal-status.com/product/production)
 * [Pinterest Status Page](https://www.pintereststatus.com/)
 * [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
@@ -135,6 +136,7 @@ Awesome list of status pages open source software, online services and public st
 * [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
 * [Udemy](https://status.udemy.com/) - Udemy status page
 * [Vkontakte platform status](https://vk.com/dev.php?method=health) - Vkontakte (Russian based major social network) status page
+* [Wikimedia status](https://www.wikimediastatus.net/) - Wikimedia status page
 * [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Grafana based status page replacement for Wikipedia
 * [Zendesk Status](https://status.zendesk.com/) - Zendesk status page
 * [Zoom Cloud Status](https://status.zoom.us/) - Zoom (videoconferencing) status page
