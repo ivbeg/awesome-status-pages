@@ -65,7 +65,7 @@ Awesome list of status pages open source software, online services and public st
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
 * [Pulsetic](https://pulsetic.com/) - create beautiful status pages & incident management reports and keep your visitors updated
-* [Sematext Cloud](https://sematext.com/) - public & private status pages with incidents, uptime metrics and charts offered as part of [Sematext Synthetics](https://sematext.com/synthetic-monitoring)
+* [Sematext Cloud](https://sematext.com/) - public & private [status pages with incidents](https://sematext.com/status-pages-and-incidents/), uptime metrics and charts offered as part of [Sematext Synthetics](https://sematext.com/synthetic-monitoring)
 * [Sorry™](https://www.sorryapp.com)
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
 * [Status.io](https://status.io)
@@ -124,6 +124,7 @@ Awesome list of status pages open source software, online services and public st
 * [reddit Status](https://www.redditstatus.com/) - reddit Social Media status page
 * [Repetiti Status](https://status.repetiti.com/) - Repetiti 3d Printer Management Service status page
 * [Salesforce Status](https://status.salesforce.com/) - Salesforce service availability and performance for Salesforce products.
+* [Sematext Status](https://status.eu.sematext.com/ui/statuspages) - Sematext EU Status Page
 * [Skype Status](https://support.skype.com/en/status/) - Microsoft Skype Status page
 * [Slack Status](https://status.slack.com/) - Slack, chat platform, status page
 * [Squdcast Status](https://status.squadcast.com/) - Squadcast Incident Management & Incident Response Status
