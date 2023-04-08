@@ -51,7 +51,7 @@ Awesome list of status pages open source software, online services and public st
 * [Checkly](https://www.checklyhq.com) - API & E2E monitoring platform
 * [Cronitor.io](https://cronitor.io/status-pages) - Status Pages with built-in monitoring for websites, APIs, cron jobs and heartbeats.
 * [FreshStatus](https://www.freshworks.com/statuspage/)
-* [OneUptime](https://oneuptime.com/product/public-status-page) - OneUptime public and private status pages
+* [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
 * [HetrixTools](https://hetrixtools.com) - uptime monitoring for ips and websites with an integrated status page
 * [Hexadecimal](https://tryhexadecimal.com) - uptime & certificate monitoring and hosted status pages
 * [Hund](https://hund.io/)
@@ -72,6 +72,7 @@ Awesome list of status pages open source software, online services and public st
 * [StatusCast](https://statuscast.com/)
 * [StatusKeeper](https://statuskeeper.com/)
 * [StatusKit](https://statuskit.com/)
+* [StatusList](https://statuslist.app) - Hosted status pages, uptime monitoring and debug tools in one dashboard.
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
 * [Statuspal](https://statuspal.io) - Hosted status pages & monitoring.
 * ~~[Statusy](https://statusy.co) *(Discontinued)*~~
@@ -118,6 +119,7 @@ Awesome list of status pages open source software, online services and public st
 * [Microsoft Advertisement Status](https://status.ads.microsoft.com/) - Microsoft Advertisement status page
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
 * [Odoo](https://www.saashub.com/odoo-status) - Odoo Status page on 3rd-party page
+* [OpenAI Status](https://status.openai.com/) - OpenAI's home for real-time and historical data on system performance 
 * [Paypal Status Page](https://www.paypal-status.com/product/production)
 * [Pinterest Status Page](https://www.pintereststatus.com/)
 * [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
@@ -137,6 +139,7 @@ Awesome list of status pages open source software, online services and public st
 * [Udemy](https://status.udemy.com/) - Udemy status page
 * [Vkontakte platform status](https://vk.com/dev.php?method=health) - Vkontakte (Russian based major social network) status page
 * [WebGazer service status](https://status.webgazer.io) - WebGazer status page
+* [Wikimedia status](https://www.wikimediastatus.net/) - Wikimedia status page
 * [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Grafana based status page replacement for Wikipedia
 * [Zendesk Status](https://status.zendesk.com/) - Zendesk status page
 * [Zoom Cloud Status](https://status.zoom.us/) - Zoom (videoconferencing) status page
