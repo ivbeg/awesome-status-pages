@@ -79,6 +79,7 @@ Awesome list of status pages open source software, online services and public st
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [Uptime Robot](https://uptimerobot.com/)
 * [UptimeToolbox](https://www.uptimetoolbox.com/) - Website/Server monitors with status pages.
+* [WebGazer](https://www.webgazer.io) - Uptime monitoring, cron job monitoring and hosted status pages.
 
 ## Public status pages
 * [Absurd Design](https://status.absurd.design/) - Absurd Design status
@@ -137,6 +138,7 @@ Awesome list of status pages open source software, online services and public st
 * [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
 * [Udemy](https://status.udemy.com/) - Udemy status page
 * [Vkontakte platform status](https://vk.com/dev.php?method=health) - Vkontakte (Russian based major social network) status page
+* [WebGazer service status](https://status.webgazer.io) - WebGazer status page
 * [Wikimedia status](https://www.wikimediastatus.net/) - Wikimedia status page
 * [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Grafana based status page replacement for Wikipedia
 * [Zendesk Status](https://status.zendesk.com/) - Zendesk status page
