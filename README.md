@@ -14,8 +14,11 @@ Awesome list of status pages open source software, online services and public st
 * [ciao](https://github.com/brotandgames/ciao) - checks HTTP(S) URL endpoints for a HTTP status code (or errors on the lower TCP stack) and sends a notification on status change via E-Mail or Webhooks.
 * ~~[Corestats](https://github.com/jayfk/statuspage)~~ - *(Discontinued / Un-Supported)*
 * [cState](https://github.com/cstate/cstate) - Simple, dev friendly, and free to host (Netlify & GitHub Pages)
+* [dish](https://github.com/savla-dev/savla-dish) - Simple and fast socket checker written in Go, can be integrated with a Telegram bot
 * [django-statusboard](https://github.com/edigiacomo/django-statusboard/) - Django status page application with browser and REST interface.
 * [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard
+* [health_check](https://github.com/ianheggie/health_check) - Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom
+* [health-monitor-rails](https://github.com/lbeder/health-monitor-rails) - A Rails plugin which provides a health checking and monitoring API of various services and application aspects
 * [Issue Status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
 * [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
 * ~~[LambStatus](https://lambstatus.github.io)~~ *(Discontinued / Un-Supported)*
@@ -30,17 +33,15 @@ Awesome list of status pages open source software, online services and public st
 * [StatusOK](https://github.com/sanathp/statusok)
 * ~~[statuspage](https://github.com/darkpixel/statuspage)~~ - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/)) *(Discontinued)*
 * [Staytus](https://staytus.co/)
-* [health_check](https://github.com/ianheggie/health_check) - Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom
 * [status-page](https://github.com/rails-engine/status-page) - Mountable status page for your Rails application, to check Cache, Redis, Sidekiq
-* [health-monitor-rails](https://github.com/lbeder/health-monitor-rails) - A Rails plugin which provides a health checking and monitoring API of various services and application aspects
-* [Vigil](https://github.com/valeriansaliou/vigil) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
+* [Status-Page](https://github.com/Status-Page/Status-Page) - Self-hosted status page site written in Django
 * [Statusimo](https://github.com/EvotecIT/Statusimo) - A PowerShell module that is able to generate a status page entirely from PowerShell.
-* [Workers Status Page](https://github.com/eidam/cf-workers-status-page) - Cloudflare Workers (completely on the edge) powered monitoring & status page.
+* [Tinystatus](https://github.com/bderenzo/tinystatus) - A tiny static status page generator (written in pure shell)
 * [Upptime](https://github.com/upptime/upptime) - monitor and status page powered by GitHub
 * ~~[Uptimon](https://github.com/RatherLogical/Uptimon) - A PHP powered status page/monitoring solution.~~ *(Looks like project removed or set to private)*
 * [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - A self-hosted monitoring tool like "Uptime Robot".
-* [Tinystatus](https://github.com/bderenzo/tinystatus) - A tiny static status page generator (written in pure shell)
-* [Status-Page](https://github.com/Status-Page/Status-Page) - Self-hosted status page site written in Django
+* [Vigil](https://github.com/valeriansaliou/vigil) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
+* [Workers Status Page](https://github.com/eidam/cf-workers-status-page) - Cloudflare Workers (completely on the edge) powered monitoring & status page.
 
 ## Services
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
