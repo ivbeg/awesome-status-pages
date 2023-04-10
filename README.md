@@ -65,7 +65,7 @@ Awesome list of status pages open source software, online services and public st
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
 * [Pulsetic](https://pulsetic.com/) - create beautiful status pages & incident management reports and keep your visitors updated
-* [Sematext Cloud](https://sematext.com/) - public & private [status pages with incidents](https://sematext.com/status-pages-and-incidents/), uptime metrics and charts offered as part of [Sematext Synthetics](https://sematext.com/synthetic-monitoring)
+* [Sematext Cloud](https://sematext.com/status-pages-and-incidents/) - public & private status pages with incidents, uptime metrics and charts offered as part of Sematext Synthetics
 * [Sorry™](https://www.sorryapp.com)
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
 * [Status.io](https://status.io)
