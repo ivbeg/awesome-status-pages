@@ -16,6 +16,7 @@ Awesome list of status pages open source software, online services and public st
 * [cState](https://github.com/cstate/cstate) - Simple, dev friendly, and free to host (Netlify & GitHub Pages)
 * [dish](https://github.com/savla-dev/savla-dish) - Simple and fast socket checker written in Go, can be integrated with a Telegram bot
 * [django-statusboard](https://github.com/edigiacomo/django-statusboard/) - Django status page application with browser and REST interface.
+* [Fettle](https://github.com/mehatab/fettle) - An open-source, GitHub-powered status page project utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management.
 * [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard
 * [health_check](https://github.com/ianheggie/health_check) - Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom
 * [health-monitor-rails](https://github.com/lbeder/health-monitor-rails) - A Rails plugin which provides a health checking and monitoring API of various services and application aspects
