@@ -25,6 +25,7 @@ Awesome list of status pages open source software, online services and public st
 * ~~[LambStatus](https://lambstatus.github.io)~~ *(Discontinued / Un-Supported)*
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
 * [Okazanta](https://github.com/Okazanta/Okazanta-core) - Modern open source status page software written in Laravel/PHP (fork of Cachet)
+* [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
 * [Server-Status](https://github.com/Pryx/server-status)
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
 * [Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page
