@@ -121,6 +121,7 @@ Awesome list of status pages open source software, online services and public st
 * [Microsoft Advertisement Status](https://status.ads.microsoft.com/) - Microsoft Advertisement status page
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
 * [Odoo](https://www.saashub.com/odoo-status) - Odoo Status page on 3rd-party page
+* [Okta](https://status.okta.com/) - Okta public status page
 * [OpenAI Status](https://status.openai.com/) - OpenAI's home for real-time and historical data on system performance 
 * [Paypal Status Page](https://www.paypal-status.com/product/production)
 * [Pinterest Status Page](https://www.pintereststatus.com/)
