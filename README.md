@@ -126,6 +126,7 @@ Awesome list of status pages open source software, online services and public st
 * [Paypal Status Page](https://www.paypal-status.com/product/production)
 * [Pinterest Status Page](https://www.pintereststatus.com/)
 * [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
+* [Revolut](https://www.revolut.com/system-status/) - Revolut neobanking service
 * [reddit Status](https://www.redditstatus.com/) - reddit Social Media status page
 * [Repetiti Status](https://status.repetiti.com/) - Repetiti 3d Printer Management Service status page
 * [Salesforce Status](https://status.salesforce.com/) - Salesforce service availability and performance for Salesforce products.
