@@ -121,10 +121,12 @@ Awesome list of status pages open source software, online services and public st
 * [Microsoft Advertisement Status](https://status.ads.microsoft.com/) - Microsoft Advertisement status page
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
 * [Odoo](https://www.saashub.com/odoo-status) - Odoo Status page on 3rd-party page
+* [Okta](https://status.okta.com/) - Okta public status page
 * [OpenAI Status](https://status.openai.com/) - OpenAI's home for real-time and historical data on system performance 
 * [Paypal Status Page](https://www.paypal-status.com/product/production)
 * [Pinterest Status Page](https://www.pintereststatus.com/)
 * [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
+* [Revolut](https://www.revolut.com/system-status/) - Revolut neobanking service
 * [reddit Status](https://www.redditstatus.com/) - reddit Social Media status page
 * [Repetiti Status](https://status.repetiti.com/) - Repetiti 3d Printer Management Service status page
 * [Salesforce Status](https://status.salesforce.com/) - Salesforce service availability and performance for Salesforce products.
