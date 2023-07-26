@@ -24,7 +24,7 @@ Awesome list of status pages open source software, online services and public st
 * [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
 * ~~[LambStatus](https://lambstatus.github.io)~~ *(Discontinued / Un-Supported)*
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
-* ~~[Okazanta](https://github.com/Okazanta/Okazanta-core)~~ *(Discontinued / Un-Supported)*
+* ~~[Okazanta](https://github.com/okazanta/Okazanta-legacy)~~ *(Discontinued / Un-Supported)*
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
 * [Server-Status](https://github.com/Pryx/server-status)
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
