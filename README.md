@@ -64,6 +64,7 @@ Awesome list of status pages open source software, online services and public st
 * ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
 * [LIVCK](https://livck.com) - Monitoring with private/public statuspage
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
+* [OnlineOrNot](https://onlineornot.com) - hosted public/private status pages with integrated uptime monitoring for websites and APIs
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
