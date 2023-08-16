@@ -60,6 +60,7 @@ Awesome list of status pages open source software, online services and public st
 * [Hund](https://hund.io/)
 * [Hydrozen.io](https://hydrozen.io/) - Uptime monitoring with built in fast Statuspages & Analytics.
 * [Hyperping.io](https://hyperping.io) - Public & private status pages with built-in monitoring.
+* [IsDown.app](https://isdown.app) - Status pages aggregator for all third-party services & Uptime monitoring.
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
 * [LIVCK](https://livck.com) - Monitoring with private/public statuspage
@@ -124,7 +125,7 @@ Awesome list of status pages open source software, online services and public st
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
 * [Odoo](https://www.saashub.com/odoo-status) - Odoo Status page on 3rd-party page
 * [Okta](https://status.okta.com/) - Okta public status page
-* [OpenAI Status](https://status.openai.com/) - OpenAI's home for real-time and historical data on system performance 
+* [OpenAI Status](https://status.openai.com/) - OpenAI's home for real-time and historical data on system performance
 * [Paypal Status Page](https://www.paypal-status.com/product/production)
 * [Pinterest Status Page](https://www.pintereststatus.com/)
 * [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
@@ -162,10 +163,12 @@ Awesome list of status pages open source software, online services and public st
 * [Kinsta](https://status.kinsta.com) - Kinsta status page
 * [Linode](https://status.linode.com) - Linode satus page
 * [Microsoft Azure](https://status.azure.com/en-us/status) - Microsoft Azure status page
+* [Netlify](https://www.netlifystatus.com/) - Netlify status page
 * [Oracle Cloud](https://ocistatus.oraclecloud.com/) - Oracle Cloud status page
 * [OVHcloud](https://www.status-ovhcloud.com) - OVHcloud status page
 * [Rackspace](https://status.apps.rackspace.com) - Rackspace status page
 * [UpCloud](https://status.upcloud.com) - UpCloud status page
+* [Vercel](https://www.vercel-status.com/) - Vercel status page
 * [Vultr](https://status.vultr.com) - Vultr status page
 * [Workspace ONE](https://status.workspaceone.com) - VMWARE Workspace ONE status page
 * [Yandex.Cloud](https://status.cloud.yandex.ru/) - Yandex.Cloud status page
