@@ -69,6 +69,7 @@ Awesome list of status pages open source software, online services and public st
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
 * [Pulsetic](https://pulsetic.com/) - create beautiful status pages & incident management reports and keep your visitors updated
+* [OpenStatus](https://www.openstatus.dev) - Opensource uptime monitoring with beautiful status pages
 * [Sematext Cloud](https://sematext.com/status-pages-and-incidents/) - public & private status pages with incidents, uptime metrics and charts offered as part of Sematext Synthetics
 * [Sorry™](https://www.sorryapp.com)
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
@@ -124,7 +125,7 @@ Awesome list of status pages open source software, online services and public st
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
 * [Odoo](https://www.saashub.com/odoo-status) - Odoo Status page on 3rd-party page
 * [Okta](https://status.okta.com/) - Okta public status page
-* [OpenAI Status](https://status.openai.com/) - OpenAI's home for real-time and historical data on system performance 
+* [OpenAI Status](https://status.openai.com/) - OpenAI's home for real-time and historical data on system performance
 * [Paypal Status Page](https://www.paypal-status.com/product/production)
 * [Pinterest Status Page](https://www.pintereststatus.com/)
 * [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
