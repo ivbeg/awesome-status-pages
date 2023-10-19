@@ -86,6 +86,7 @@ Awesome list of status pages open source software, online services and public st
 * [Uptime Robot](https://uptimerobot.com/)
 * [UptimeToolbox](https://www.uptimetoolbox.com/) - Website/Server monitors with status pages.
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring, cron job monitoring and hosted status pages.
+* [Xitoring](https://xitoring.com) - Uptime monitoring, Server monitoring, built-in hosted status pages.
 
 ## Public status pages
 * [Absurd Design](https://status.absurd.design/) - Absurd Design status
