@@ -1,15 +1,16 @@
 # Awesome status pages  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome list of status pages open source software, online services and public status pages of major internet companies
-### Table of contents
+Awesome list of status pages opensource software, online services, and public status pages of major internet companies.
+
+### Table of Contents
 
 * [Opensource](#opensource)
 * [Services](#services)
-* [Public status pages](#public-status-pages)
-* [Hosting](#hosting-and-cloud)
+* [Public Status Pages](#public-status-pages)
+* [Hosting and Cloud](#hosting-and-cloud)
 
 ## Opensource
-* [Cachet](https://cachethq.io/)~~ - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342).
+* [Cachet](https://cachethq.io/) - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342).
 * [ClearStatus](https://github.com/weeblrpress/clearstatus/) - Hugo-based status page, supports Netlify. Supports events from Github, Gitlab or any git repo with markdown.
 * [ciao](https://github.com/brotandgames/ciao) - checks HTTP(S) URL endpoints for a HTTP status code (or errors on the lower TCP stack) and sends a notification on status change via E-Mail or Webhooks.
 * ~~[Corestats](https://github.com/jayfk/statuspage)~~ - *(Discontinued / Un-Supported)*
@@ -91,7 +92,7 @@ Awesome list of status pages open source software, online services and public st
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring, cron job monitoring and hosted status pages.
 * [Xitoring](https://xitoring.com) - Uptime monitoring, Server monitoring, built-in hosted status pages.
 
-## Public status pages
+## Public Status Pages
 * [Absurd Design](https://status.absurd.design/) - Absurd Design status
 * [Adobe System Status](https://status.adobe.com/) - Adobe services status
 * [Akamai Status](https://cloudharmony.com/status-for-akamai) - Akamai Service Status
@@ -167,7 +168,7 @@ Awesome list of status pages open source software, online services and public st
 * [Google Cloud](https://status.cloud.google.com/) - Google Cloud status page
 * [Hostinger](https://statuspage.hostinger.com) - Hostinger status page
 * [Kinsta](https://status.kinsta.com) - Kinsta status page
-* [Linode](https://status.linode.com) - Linode satus page
+* [Linode](https://status.linode.com) - Linode status page
 * [Microsoft Azure](https://status.azure.com/en-us/status) - Microsoft Azure status page
 * [Netlify](https://www.netlifystatus.com/) - Netlify status page
 * [Oracle Cloud](https://ocistatus.oraclecloud.com/) - Oracle Cloud status page
@@ -176,5 +177,5 @@ Awesome list of status pages open source software, online services and public st
 * [UpCloud](https://status.upcloud.com) - UpCloud status page
 * [Vercel](https://www.vercel-status.com/) - Vercel status page
 * [Vultr](https://status.vultr.com) - Vultr status page
-* [Workspace ONE](https://status.workspaceone.com) - VMWARE Workspace ONE status page
+* [Workspace ONE](https://status.workspaceone.com) - VMware Workspace ONE status page
 * [Yandex.Cloud](https://status.cloud.yandex.ru/) - Yandex.Cloud status page
