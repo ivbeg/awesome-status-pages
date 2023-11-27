@@ -52,7 +52,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
 * ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha~~ *(Discontinued)*
 * [Odown](https://odown.io) - Public Status Pages with built-in monitoring for websites and APIs
-* [Better Uptime](https://betteruptime.com) - Uptime monitoring, on-call alerting, and status pages
+* [Better Stack](https://betterstack.com/status-page) - Uptime monitoring, on-call alerting, and status pages
 * [Bluesky](https://status.bsky.app) - Status page for Bluesky social network
 * [Checkly](https://www.checklyhq.com) - API & E2E monitoring platform
 * [Cronitor.io](https://cronitor.io/status-pages) - Status Pages with built-in monitoring for websites, APIs, cron jobs and heartbeats.
