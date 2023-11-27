@@ -142,6 +142,7 @@ Awesome list of status pages open source software, online services and public st
 * [Stripe Status](https://status.stripe.com/) - Stripe system status page
 * [Sumsub](https://status.sumsub.com/) - SumSub status page
 * [Sony PlayStation](https://status.playstation.com/) - Sony PlayStation status page
+* [Taskade](https://status.taskade.com/) - Taskade status page
 * [Tailscale](https://status.tailscale.com/) - Tailscale status page
 * [Trakt](https://status.trakt.tv) - Trakt status page
 * [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
