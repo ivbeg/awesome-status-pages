@@ -125,6 +125,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Google Workspace Status](https://www.google.com/appsstatus) - Google Workspace (formerly G Suite) online status page
 * [Grammarly](https://status.grammarly.com/) - Grammarly status page
 * [Heroku Status](https://status.heroku.com/) - Heroku status page
+* [HiBob](https://status.hibob.io/) - HiBob (HRIS systemm) status page
 * [HubSpot](https://status.hubspot.com/) - HubSpot status page
 * [Jitterbit](https://trust.jitterbit.com/) - JitterBit Page status page
 * [LucidApp](https://trust.jitterbit.com/) - LucidChart status page
