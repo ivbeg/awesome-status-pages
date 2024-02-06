@@ -21,6 +21,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard
 * [health_check](https://github.com/ianheggie/health_check) - Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom
 * [health-monitor-rails](https://github.com/lbeder/health-monitor-rails) - A Rails plugin which provides a health checking and monitoring API of various services and application aspects
+* [HertzBeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.
 * [Issue Status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
 * [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
 * ~~[LambStatus](https://lambstatus.github.io)~~ *(Discontinued / Un-Supported)*
