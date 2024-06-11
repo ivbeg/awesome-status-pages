@@ -59,6 +59,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Checkly](https://www.checklyhq.com) - API & E2E monitoring platform
 * [Cronitor.io](https://cronitor.io/status-pages) - Status Pages with built-in monitoring for websites, APIs, cron jobs and heartbeats.
 * [FreshStatus](https://www.freshworks.com/statuspage/)
+* [Garmingo Status](https://garmingo.com/status) - Uptime monitoring and status pages for websites, APIs, ...
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
 * [HetrixTools](https://hetrixtools.com) - uptime monitoring for ips and websites with an integrated status page
 * [Hexadecimal](https://tryhexadecimal.com) - uptime & certificate monitoring and hosted status pages
