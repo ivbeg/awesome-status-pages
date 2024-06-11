@@ -178,6 +178,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Oracle Cloud](https://ocistatus.oraclecloud.com/) - Oracle Cloud status page
 * [OVHcloud](https://www.status-ovhcloud.com) - OVHcloud status page
 * [Rackspace](https://status.apps.rackspace.com) - Rackspace status page
+* [Scaleway](https://status.scaleway.com/) - Scaleway status page
 * [UpCloud](https://status.upcloud.com) - UpCloud status page
 * [Vercel](https://www.vercel-status.com/) - Vercel status page
 * [Vultr](https://status.vultr.com) - Vultr status page
