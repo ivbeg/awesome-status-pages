@@ -35,6 +35,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Statsig's Status Page](https://github.com/statsig-io/statuspage) - A simple, pure html/js, zero-dependency status page powered by GitHub Pages and Actions.
 * ~~[Statusfy](https://marquez.co/statusfy)~~ *(Discontinued / Un-Supported)*
 * [StatusOK](https://github.com/sanathp/statusok)
+* [Statusphere](https://github.com/metoro-io/statusphere) - Api-first status page aggregator
 * ~~[statuspage](https://github.com/darkpixel/statuspage)~~ - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/)) *(Discontinued)*
 * [Staytus](https://staytus.co/)
 * [status-page](https://github.com/rails-engine/status-page) - Mountable status page for your Rails application, to check Cache, Redis, Sidekiq
