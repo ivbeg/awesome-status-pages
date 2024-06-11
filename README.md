@@ -67,6 +67,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Hydrozen.io](https://hydrozen.io/) - Uptime monitoring with built in fast Statuspages & Analytics.
 * [Hyperping.io](https://hyperping.io) - Public & private status pages with built-in monitoring.
 * [IsDown.app](https://isdown.app) - Status pages aggregator for all third-party services & Uptime monitoring.
+* [incident.io](https://incident.io/status-pages) - Public, private (domain authenticated), and internal status pages.
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * [Incident.io](https://incident.io) - Incident management, on-call alerting, and public, customer, and private status pages.
 * ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
@@ -132,6 +133,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [HubSpot](https://status.hubspot.com/) - HubSpot status page
 * [Humanity](https://humanity.status.io/) - Humanity status page
 * [Jitterbit](https://trust.jitterbit.com/) - JitterBit Page status page
+* [Linear](https://linearstatus.com) - Linear status page
 * [LucidApp](https://trust.jitterbit.com/) - LucidChart status page
 * [Mail.ru cloud Status](https://status.mcs.mail.ru/) - Mail.ru Cloud Solutions status page
 * [Microsoft Advertisement Status](https://status.ads.microsoft.com/) - Microsoft Advertisement status page
