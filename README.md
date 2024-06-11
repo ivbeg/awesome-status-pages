@@ -68,7 +68,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [IsDown.app](https://isdown.app) - Status pages aggregator for all third-party services & Uptime monitoring.
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
-* [LIVCK](https://livck.com/r/ivbeg) - Free and Self-Hosted Statuspage with built-in Monitoring for Servers, SSL-Certificates, Websites, APIs, Cronjobs (Heartbeat) and Manual-Monitors (e.g. Firewall / PSU ...) with a beautiful statuspage layout ```Coupon: ivbeg for 50% off```
+* [LIVCK](https://livck.com/r/ivbeg) - Free and Self-Hosted Statuspage with built-in Monitoring for Servers, SSL-Certificates, Websites, APIs, Cronjobs (Heartbeat) and Manual-Monitors (e.g. Firewall / PSU ...) with a beautiful statuspage layout ```Free - No Creditcard Required```
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
 * [OnlineOrNot](https://onlineornot.com) - hosted public/private status pages with integrated uptime monitoring for websites and APIs
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
