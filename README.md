@@ -93,7 +93,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
 * [Statuspal](https://statuspal.io) - Hosted status pages & monitoring.
 * ~~[Statusy](https://statusy.co) *(Discontinued)*~~
-* [StatusSight](https://statussight.com/) - Real-time status aggregator and monitoring for 3,000 third-party services and APIs.
+* [StatusSight](https://statussight.com/) - status page aggregator for monitoring third-party services and APIs.
 * [StatusTicker](https://statusticker.com) - Aggregated service provider incident and outage monitoring
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [Uptime Robot](https://uptimerobot.com/)
