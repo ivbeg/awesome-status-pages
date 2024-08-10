@@ -28,6 +28,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
 * ~~[Okazanta](https://github.com/okazanta/Okazanta-legacy)~~ *(Discontinued / Un-Supported)*
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
+* [OS Status](https://tommy141x.github.io/os-status-page/) - React-based status page with, service monitoring, incident management, user roles, and dark/light mode, all set up easily with a script.
 * [Pagetron](https://github.com/agrrh/pagetron) - Status page generator, based on Prometheus, designed to be deployed to Kubernetes clusters
 * [Server-Status](https://github.com/Pryx/server-status)
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
