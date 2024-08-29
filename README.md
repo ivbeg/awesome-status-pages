@@ -73,6 +73,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [incident.io](https://incident.io/status-pages) - Public, private (domain authenticated), and internal status pages.
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * [Incident.io](https://incident.io) - Incident management, on-call alerting, and public, customer, and private status pages.
+* [IncidentHub](https://incidenthub.cloud/) - Status page aggregator monitoring SaaS and Cloud providers/
 * ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
 * [LIVCK](https://livck.com) - Monitoring with private/public statuspage
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
