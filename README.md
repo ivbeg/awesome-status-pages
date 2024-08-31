@@ -99,6 +99,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [StatusSight](https://statussight.com/) - status page aggregator for monitoring third-party services and APIs.
 * [StatusTicker](https://statusticker.com) - Aggregated service provider incident and outage monitoring
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
+* [Uptime.com](https://uptime.com) - Website Monitoring, Status Pages (Private & Public) and Incident Management.
 * [Uptime Robot](https://uptimerobot.com/)
 * [UptimeToolbox](https://www.uptimetoolbox.com/) - Website/Server monitors with status pages.
 * [Uptimia](https://www.uptimia.com/) - Website monitoring, on-call alerting with status pages.
