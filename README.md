@@ -10,6 +10,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Hosting and Cloud](#hosting-and-cloud)
 
 ## Opensource
+* [BlueWave Uptime](https://github.com/bluewave-labs/bluewave-uptime) - BlueWave Uptime is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time with beautiful visualizations. Get powerful insights and proactive alerts to keep your services running smoothly.
 * [Cachet](https://cachethq.io/) - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342).
 * [ClearStatus](https://github.com/weeblrpress/clearstatus/) - Hugo-based status page, supports Netlify. Supports events from Github, Gitlab or any git repo with markdown.
 * [ciao](https://github.com/brotandgames/ciao) - checks HTTP(S) URL endpoints for a HTTP status code (or errors on the lower TCP stack) and sends a notification on status change via E-Mail or Webhooks.
