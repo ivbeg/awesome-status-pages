@@ -20,6 +20,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [django-statusboard](https://github.com/edigiacomo/django-statusboard/) - Django status page application with browser and REST interface.
 * [Fettle](https://github.com/mehatab/fettle) - An open-source, GitHub-powered status page project utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management.
 * [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard
+* [GitHub Status Page](https://github.com/Bullrich/Status-Page) - GitHub powered status page utilizing GitHub Actions to fetch metrics, issues to generate report incidents and GitHub pages for hosting.
 * [health_check](https://github.com/ianheggie/health_check) - Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom
 * [health-monitor-rails](https://github.com/lbeder/health-monitor-rails) - A Rails plugin which provides a health checking and monitoring API of various services and application aspects
 * [HertzBeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.
