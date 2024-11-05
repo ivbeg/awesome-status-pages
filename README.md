@@ -11,6 +11,7 @@ Awesome list of status pages opensource software, online services, and public st
 
 ## Opensource
 * [aPulse](https://github.com/ybouane/aPulse) - A One-File Nodejs Server Status Monitoring Tool.
+* [BlueWave Uptime](https://github.com/bluewave-labs/bluewave-uptime) - BlueWave Uptime is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time with beautiful visualizations. Get powerful insights and proactive alerts to keep your services running smoothly.
 * [Cachet](https://cachethq.io/) - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342).
 * [ClearStatus](https://github.com/weeblrpress/clearstatus/) - Hugo-based status page, supports Netlify. Supports events from Github, Gitlab or any git repo with markdown.
 * [ciao](https://github.com/brotandgames/ciao) - checks HTTP(S) URL endpoints for a HTTP status code (or errors on the lower TCP stack) and sends a notification on status change via E-Mail or Webhooks.
@@ -20,6 +21,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [django-statusboard](https://github.com/edigiacomo/django-statusboard/) - Django status page application with browser and REST interface.
 * [Fettle](https://github.com/mehatab/fettle) - An open-source, GitHub-powered status page project utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management.
 * [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard
+* [GitHub Status Page](https://github.com/Bullrich/Status-Page) - GitHub powered status page utilizing GitHub Actions to fetch metrics, issues to generate report incidents and GitHub pages for hosting.
 * [health_check](https://github.com/ianheggie/health_check) - Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom
 * [health-monitor-rails](https://github.com/lbeder/health-monitor-rails) - A Rails plugin which provides a health checking and monitoring API of various services and application aspects
 * [HertzBeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.
@@ -38,6 +40,7 @@ Awesome list of status pages opensource software, online services, and public st
 * ~~[Statusfy](https://marquez.co/statusfy)~~ *(Discontinued / Un-Supported)*
 * [StatusOK](https://github.com/sanathp/statusok)
 * [Statusphere](https://github.com/metoro-io/statusphere) - Api-first status page aggregator
+* [Statusy](https://www.statusy.dev/) - Open source Statuspage aggregator
 * ~~[statuspage](https://github.com/darkpixel/statuspage)~~ - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/)) *(Discontinued)*
 * [Staytus](https://staytus.co/)
 * [status-page](https://github.com/rails-engine/status-page) - Mountable status page for your Rails application, to check Cache, Redis, Sidekiq
@@ -48,6 +51,7 @@ Awesome list of status pages opensource software, online services, and public st
 * ~~[Uptimon](https://github.com/RatherLogical/Uptimon) - A PHP powered status page/monitoring solution.~~ *(Looks like project removed or set to private)*
 * [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - A self-hosted monitoring tool like "Uptime Robot".
 * [Vigil](https://github.com/valeriansaliou/vigil) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
+* [WM Website Status](https://gitlab.com/WEB-Manufaktur/website-status-php-script) - A straightforward PHP script designed for monitoring the status and latency of multiple domains.
 * [Workers Status Page](https://github.com/eidam/cf-workers-status-page) - Cloudflare Workers (completely on the edge) powered monitoring & status page.
 * [UptimeFlare](https://github.com/lyc8503/UptimeFlare) - Another monitoring & status page completely powered by Cloudflare Workers & Pages.
 * [Kener](https://kener.ing/) - A SvelteKit + Node.js status page with incident management.
@@ -100,6 +104,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [StatusSight](https://statussight.com/) - status page aggregator for monitoring third-party services and APIs.
 * [StatusTicker](https://statusticker.com) - Aggregated service provider incident and outage monitoring
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
+* [Uptime.com](https://uptime.com) - Website Monitoring, Status Pages (Private & Public) and Incident Management.
 * [Uptime Robot](https://uptimerobot.com/)
 * [UptimeToolbox](https://www.uptimetoolbox.com/) - Website/Server monitors with status pages.
 * [Uptimia](https://www.uptimia.com/) - Website monitoring, on-call alerting with status pages.
