@@ -180,7 +180,8 @@ Awesome list of status pages opensource software, online services, and public st
 * [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Grafana based status page replacement for Wikipedia
 * [Zendesk Status](https://status.zendesk.com/) - Zendesk status page
 * [Zoom Cloud Status](https://status.zoom.us/) - Zoom (videoconferencing) status page
-
+* [Wordnik](https://status.wordnik.com/) - Wordnik public status page based on MD and JSON files hosted on Github updated regularly by bot
+  
 ## Hosting and Cloud
 * [Alibaba Cloud](https://status.alibabacloud.com/) - Alibaba Cloud status page
 * [AWS](https://status.aws.amazon.com/) - AWS status page
