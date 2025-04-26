@@ -188,6 +188,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [DigitalOcean](https://status.digitalocean.com) - DigitalOcean status page
 * [DomaiNesia](https://www.domainesia.com/status) - DomaiNesia status page
 * [Google Cloud](https://status.cloud.google.com/) - Google Cloud status page
+* [Hetzner Online](https://status.hetzner.com/) - Hetzner Online status page
 * [Hostinger](https://statuspage.hostinger.com) - Hostinger status page
 * [Kinsta](https://status.kinsta.com) - Kinsta status page
 * [Linode](https://status.linode.com) - Linode status page
