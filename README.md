@@ -85,6 +85,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [OnlineOrNot](https://onlineornot.com) - hosted public/private status pages with integrated uptime monitoring for websites and APIs
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
 * [PagerDuty Status Pages](https://www.pagerduty.com/platform/business-ops/status-pages/)
+* [Pagerly](https://pagerly.io) - Oncalls and Incidence response with beautiful hosted status pages
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
 * [Pulsetic](https://pulsetic.com/) - create status pages & incident management reports and keep your visitors updated
