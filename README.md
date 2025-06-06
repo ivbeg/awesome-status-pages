@@ -63,7 +63,6 @@ Awesome list of status pages opensource software, online services, and public st
 * ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha~~ *(Discontinued)*
 * [Odown](https://odown.io) - Public Status Pages with built-in monitoring for websites and APIs
 * [Better Stack](https://betterstack.com/status-page) - Uptime monitoring, on-call alerting, and status pages
-* [Bluesky](https://status.bsky.app) - Status page for Bluesky social network
 * [Checkly](https://www.checklyhq.com) - API & E2E monitoring platform
 * [Cronitor.io](https://cronitor.io/status-pages) - Status Pages with built-in monitoring for websites, APIs, cron jobs and heartbeats.
 * [FreshStatus](https://www.freshworks.com/statuspage/)
@@ -122,6 +121,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [AppsFlyer](http://status.appsflyer.com/) - Apps Flyer (marketing app) support status
 * [BambooHR](https://status.bamboohr.com/) - BambooHR status page
 * [BigQuery](https://status.cloud.google.com/) - BigQuery status page
+* [Bluesky](https://status.bsky.app) - Status page for Bluesky social network
 * [Box Status](https://status.box.com/) - Box.net status page
 * [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare System Status
 * [CloudFront Status](https://cloudharmony.com/status-of-cdn-for-aws) - Amazon CloudFront Service Status
