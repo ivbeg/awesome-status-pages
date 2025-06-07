@@ -31,6 +31,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
 * ~~[Okazanta](https://github.com/okazanta/Okazanta-legacy)~~ *(Discontinued / Un-Supported)*
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
+* [OpenStatus](https://www.openstatus.dev) - Opensource uptime monitoring with status pages with hosted service
 * [Pagetron](https://github.com/agrrh/pagetron) - Status page generator, based on Prometheus, designed to be deployed to Kubernetes clusters
 * [Server-Status](https://github.com/Pryx/server-status)
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
@@ -86,7 +87,6 @@ Awesome list of status pages opensource software, online services, and public st
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
 * [Pulsetic](https://pulsetic.com/) - create status pages & incident management reports and keep your visitors updated
-* [OpenStatus](https://www.openstatus.dev) - Opensource uptime monitoring with status pages with hosted service
 * [Sematext Cloud](https://sematext.com/status-pages-and-incidents/) - public & private status pages with incidents, uptime metrics and charts offered as part of Sematext Synthetics
 * [Sorry™](https://www.sorryapp.com)
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
