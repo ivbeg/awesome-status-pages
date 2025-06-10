@@ -93,6 +93,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Status.io](https://status.io)
 * [StatusCast](https://statuscast.com/)
 * [StatusGator](https://statusgator.com/) - Status page aggregator with public and private status pages and website monitoring
+* [StatusHub](https://statushub.com/) - Communicate downtime with APIs, web-hooks, and automation
 * [StatusKeeper](https://statuskeeper.com/)
 * [StatusKit](https://statuskit.com/)
 * [StatusList](https://statuslist.app) - Hosted status pages, uptime monitoring and debug tools in one dashboard.
