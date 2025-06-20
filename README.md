@@ -47,7 +47,6 @@ Awesome list of status pages opensource software, online services, and public st
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
 * [Alerty Monitoring](https://www.alerty.ai) - APM & monitoring for your app and the services it depends on, with agents that help you debug.
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
-* ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha~~ *(Discontinued)*
 * [Odown](https://odown.io) - Public Status Pages with built-in monitoring for websites and APIs
 * [Better Stack](https://betterstack.com/status-page) - Uptime monitoring, on-call alerting, and status pages
 * [Checkly](https://www.checklyhq.com) - API & E2E monitoring platform
@@ -56,7 +55,6 @@ Awesome list of status pages opensource software, online services, and public st
 * [Garmingo Status](https://garmingo.com/status) - Uptime monitoring and status pages for websites, APIs, ...
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
 * [HetrixTools](https://hetrixtools.com) - uptime monitoring for ips and websites with an integrated status page
-* [Hexadecimal](https://tryhexadecimal.com) - uptime & certificate monitoring and hosted status pages
 * [Hund](https://hund.io/)
 * [Hydrozen.io](https://hydrozen.io/) - Uptime monitoring with built in fast Statuspages & Analytics.
 * [Hyperping.io](https://hyperping.io) - Public & private status pages with built-in monitoring.
@@ -64,7 +62,6 @@ Awesome list of status pages opensource software, online services, and public st
 * [Incident.io](https://incident.io) - Incident management, on-call alerting, and public, customer, and private status pages.
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * [IncidentHub](https://incidenthub.cloud/) - Status page aggregator monitoring SaaS and Cloud providers/
-* ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
 * [LIVCK](https://livck.com) - Monitoring with private/public statuspage
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
 * [OnlineOrNot](https://onlineornot.com) - hosted public/private status pages with integrated uptime monitoring for websites and APIs
@@ -84,7 +81,6 @@ Awesome list of status pages opensource software, online services, and public st
 * [StatusList](https://statuslist.app) - Hosted status pages, uptime monitoring and debug tools in one dashboard.
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
 * [Statuspal](https://statuspal.io) - Hosted status pages & monitoring.
-* ~~[Statusy](https://statusy.co) *(Discontinued)*~~
 * [StatusSight](https://statussight.com/) - status page aggregator for monitoring third-party services and APIs.
 * [StatusTicker](https://statusticker.com) - Aggregated service provider incident and outage monitoring
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
