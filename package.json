@@ -4,7 +4,8 @@
   "private": true,
   "description": "Awesome list of status pages opensource software, online services, and public status pages of major internet companies.",
   "scripts": {
-    "generate": "tsx scripts/generate-status-pages.ts"
+    "generate": "tsx scripts/generate-status-pages.ts",
+    "audit": "tsx scripts/audit-links.ts"
   },
   "type": "module",
   "keywords": [
@@ -18,6 +19,7 @@
   },
   "dependencies": {
     "@sentry/status-page-list": "^0.6.0",
+    "ky": "^1.8.1",
     "tsx": "^4.20.3"
   }
 }
