@@ -25,24 +25,20 @@ async function generateStatusPages() {
   const readmeContent = await fs.readFile(readmePath, "utf8");
 
   const startMarker = "## Public Status Pages";
-  const endMarker = "\n## Hosting and Cloud";
 
   const startIndex = readmeContent.indexOf(startMarker);
-  const endIndex = readmeContent.indexOf(endMarker);
 
-  if (startIndex === -1 || endIndex === -1) {
+  if (startIndex === -1) {
     throw new Error(
-      "Could not find Public Status Pages section markers in README.md"
+      "Could not find Public Status Pages section marker in README.md"
     );
   }
 
   const beforeSection = readmeContent.substring(0, startIndex);
-  const afterSection = readmeContent.substring(endIndex);
 
   const newPublicStatusPagesSection = `${startMarker}\n${statusPagesMarkdown}\n`;
 
-  const newReadmeContent =
-    beforeSection + newPublicStatusPagesSection + afterSection;
+  const newReadmeContent = beforeSection + newPublicStatusPagesSection;
 
   await fs.writeFile(readmePath, newReadmeContent, "utf8");
 
