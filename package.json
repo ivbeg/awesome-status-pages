@@ -4,8 +4,9 @@
   "private": true,
   "description": "Awesome list of status pages opensource software, online services, and public status pages of major internet companies.",
   "scripts": {
-    "generate": "tsx scripts/generate-status-pages.js"
+    "generate": "tsx scripts/generate-status-pages.ts"
   },
+  "type": "module",
   "keywords": [
     "status-pages",
     "monitoring",
