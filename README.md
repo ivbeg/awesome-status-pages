@@ -6,7 +6,7 @@ Awesome list of status pages opensource software, online services, and public st
 
 * [Opensource](#opensource)
 * [Services](#services)
-* [Public Status Pages](#public-status-pages)
+* [Public Status Pages](#public-status-pages) - generated in [collaboration with Sentry](https://github.com/getsentry/status-page-list)
 * [Hosting and Cloud](#hosting-and-cloud)
 
 ## Opensource
