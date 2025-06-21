@@ -1,0 +1,22 @@
+{
+  "name": "awesome-status-pages",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Awesome list of status pages opensource software, online services, and public status pages of major internet companies.",
+  "scripts": {
+    "generate": "tsx generate-status-pages.js"
+  },
+  "keywords": [
+    "status-pages",
+    "monitoring",
+    "uptime"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.0.3"
+  },
+  "dependencies": {
+    "@sentry/status-page-list": "^0.6.0",
+    "tsx": "^4.20.3"
+  }
+}
