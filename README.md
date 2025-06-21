@@ -6,8 +6,7 @@ Awesome list of status pages opensource software, online services, and public st
 
 * [Opensource](#opensource)
 * [Services](#services)
-* [Public Status Pages](#public-status-pages)
-* [Hosting and Cloud](#hosting-and-cloud)
+* [Public Status Pages](#public-status-pages) - generated in [collaboration with Sentry](https://github.com/getsentry/status-page-list)
 
 ## Opensource
 * [aPulse](https://github.com/ybouane/aPulse) - A One-File Nodejs Server Status Monitoring Tool.
@@ -110,95 +109,129 @@ Awesome list of status pages opensource software, online services, and public st
 * [Xitoring](https://xitoring.com) - Uptime monitoring, Server monitoring, built-in hosted status pages.
 
 ## Public Status Pages
-* [Absurd Design](https://status.absurd.design/) - Absurd Design status
-* [Adobe System Status](https://status.adobe.com/) - Adobe services status
-* [Akamai Status](https://cloudharmony.com/status-for-akamai) - Akamai Service Status
-* [Amplitude status page](https://status.amplitude.com/) - Digital optimisation system status page
-* [Atlassian cloud dashboard](https://status.atlassian.com/) - status page of Atlassian cloud services and public websites
-* [Apple Developer Status](https://developer.apple.com/system-status/) - status page of Apple Developer services ecosystem
-* [Apple Support System Status](https://www.apple.com/support/systemstatus/) - Apple support status
-* [AppsFlyer](http://status.appsflyer.com/) - Apps Flyer (marketing app) support status
+* [Adobe](https://status.adobe.com/) - Adobe status page
+* [AirGateway](https://status.airgateway.com/) - AirGateway status page
+* [Akamai](https://www.akamaistatus.com/) - Akamai status page
+* [Algolia](https://status.algolia.com/) - Algolia status page
+* [Alibaba Cloud](https://status.alibabacloud.com) - Alibaba Cloud status page
+* [Amazon Web Services](https://health.aws.amazon.com/health/status) - Amazon Web Services status page
+* [Amplitude](https://status.amplitude.com/) - Amplitude status page
+* [Apple Developer](https://developer.apple.com/system-status/) - Apple Developer status page
+* [Appsflyer](https://status.appsflyer.com/) - Appsflyer status page
+* [Appveyor](https://status.appveyor.com/) - Appveyor status page
+* [Asana](https://status.asana.com/) - Asana status page
+* [Atlassian](https://status.atlassian.com/) - Atlassian status page
+* [Auth0](https://status.auth0.com/) - Auth0 status page
+* [Autodesk](https://health.autodesk.com/) - Autodesk status page
+* [Automattic](https://automatticstatus.com/) - Automattic status page
+* [Azure](https://azure.status.microsoft/en-us/status) - Azure status page
 * [BambooHR](https://status.bamboohr.com/) - BambooHR status page
-* [BigQuery](https://status.cloud.google.com/) - BigQuery status page
-* [Bluesky](https://status.bsky.app) - Status page for Bluesky social network
-* [Box Status](https://status.box.com/) - Box.net status page
-* [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare System Status
-* [CloudFront Status](https://cloudharmony.com/status-of-cdn-for-aws) - Amazon CloudFront Service Status
-* [Crowdin](https://status.crowdin.com/) - CrowdIn status page
-* [Datadog Status](https://status.datadoghq.com/) - the status of Datadog.
-* [Designmodo Status](https://status.designmodo.com/) - the status of Designmodo.
-* [DigitalOcean Status](https://status.digitalocean.com/) - DigitalOcean Status page
-* [Discord App Status](https://discordstatus.com/) - Discord App (video conferencing & audio conferencing) status page
-* [Dropbox Status](https://status.dropbox.com/) - Dropbox service status page
-* [Facebook for Business Status](https://status.fb.com/) - Facebook platform status page
-* [Facebook Platform Status](https://developers.facebook.com/status/dashboard/) - Facebook platform status page
-* [Fastly Status Page](https://status.fastly.com/) - Fastly Status
-* [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
-* [GitHub Status](https://status.github.com/) - GitHub status page
-* [GitLab System Status](https://status.gitlab.com) - GitLab status page
+* [Box](https://status.box.com/) - Box status page
+* [Braze](https://braze.statuspage.io/) - Braze status page
+* [Chief Tools](https://status.chief.tools/) - Chief Tools status page
+* [CircleCI](https://status.circleci.com/) - CircleCI status page
+* [Clearbit](https://status.clearbit.com/) - Clearbit status page
+* [ClickUp](https://status.clickup.com/) - ClickUp status page
+* [Clickhouse Cloud](https://status.clickhouse.com/) - Clickhouse Cloud status page
+* [Cloudflare](https://www.cloudflarestatus.com/) - Cloudflare status page
+* [Codecov](https://status.codecov.com/) - Codecov status page
+* [Coinbase](https://status.coinbase.com/) - Coinbase status page
+* [Contentstack](https://status.contentstack.com/) - Contentstack status page
+* [Crowdin](https://status.crowdin.com/) - Crowdin status page
+* [Datadog EU](https://status.datadoghq.eu/) - Datadog EU status page
+* [Datadog](https://status.datadoghq.com/) - Datadog status page
+* [Deno](https://denostatus.com/) - Deno status page
+* [Designmodo](https://status.designmodo.com/) - Designmodo status page
+* [DigitalyOcean](https://status.digitalocean.com/) - DigitalyOcean status page
+* [Discord](https://discordstatus.com/) - Discord status page
+* [Dropbox](https://status.dropbox.com/) - Dropbox status page
+* [Etsy](https://www.etsystatus.com/) - Etsy status page
+* [Fastly](https://www.fastlystatus.com/) - Fastly status page
+* [Fly.io](https://status.flyio.net/) - Fly.io status page
+* [Fullstory](https://status.fullstory.com/) - Fullstory status page
+* [GibPotato](https://status.gibpotato.app/) - GibPotato status page
+* [GitHub](https://www.githubstatus.com) - GitHub status page
+* [Gitlab](https://status.gitlab.com/) - Gitlab status page
 * [Google Ads](https://ads.google.com/status/publisher/) - Google Ads status page
-* [Google Search](https://status.search.google.com) - Google Search status page
-* [Google Workspace Status](https://www.google.com/appsstatus) - Google Workspace (formerly G Suite) online status page
+* [Google Cloud](https://status.cloud.google.com) - Google Cloud status page
+* [Google Play](https://status.play.google.com/) - Google Play status page
+* [Google Workspace](https://www.google.com/appsstatus/dashboard/) - Google Workspace status page
 * [Grammarly](https://status.grammarly.com/) - Grammarly status page
-* [Heroku Status](https://status.heroku.com/) - Heroku status page
-* [HiBob](https://status.hibob.io/) - HiBob (HRIS systemm) status page
+* [Heroku](https://status.heroku.com/) - Heroku status page
+* [Hex](https://status.hex.pm/) - Hex status page
+* [HiBob](https://status.hibob.io/) - HiBob status page
 * [HubSpot](https://status.hubspot.com/) - HubSpot status page
-* [Humanity](https://humanity.status.io/) - Humanity status page
-* [Jitterbit](https://trust.jitterbit.com/) - JitterBit Page status page
-* [Linear](https://linearstatus.com) - Linear status page
-* [LucidApp](https://trust.jitterbit.com/) - LucidChart status page
-* [Mail.ru cloud Status](https://status.mcs.mail.ru/) - Mail.ru Cloud Solutions status page
-* [Microsoft Advertisement Status](https://status.ads.microsoft.com/) - Microsoft Advertisement status page
-* [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
-* [Odoo](https://www.saashub.com/odoo-status) - Odoo Status page on 3rd-party page
-* [Okta](https://status.okta.com/) - Okta public status page
-* [OpenAI Status](https://status.openai.com/) - OpenAI's home for real-time and historical data on system performance
-* [Paypal Status Page](https://www.paypal-status.com/product/production)
-* [Pinterest Status Page](https://www.pintereststatus.com/)
-* [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
-* [Revolut](https://www.revolut.com/system-status/) - Revolut neobanking service
-* [reddit Status](https://www.redditstatus.com/) - reddit Social Media status page
-* [Repetiti Status](https://status.repetiti.com/) - Repetiti 3d Printer Management Service status page
-* [Salesforce Status](https://status.salesforce.com/) - Salesforce service availability and performance for Salesforce products.
-* [Sematext Status](https://status.eu.sematext.com/ui/statuspages) - Sematext EU Status Page
-* [Skype Status](https://support.skype.com/en/status/) - Microsoft Skype Status page
-* [Slack Status](https://status.slack.com/) - Slack, chat platform, status page
-* [Squdcast Status](https://status.squadcast.com/) - Squadcast Incident Management & Incident Response Status
-* [Steam Status (Unofficial)](https://steamstat.us/) - Steam status page. Popular, but unofficial; Valve doesn't have an official page.
-* [Stripe Status](https://status.stripe.com/) - Stripe system status page
-* [Sumsub](https://status.sumsub.com/) - SumSub status page
-* [Sony PlayStation](https://status.playstation.com/) - Sony PlayStation status page
-* [Taskade](https://status.taskade.com/) - Taskade status page
-* [Tailscale](https://status.tailscale.com/) - Tailscale status page
-* [Trakt](https://status.trakt.tv) - Trakt status page
-* [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
-* [Udemy](https://status.udemy.com/) - Udemy status page
-* [Vkontakte platform status](https://vk.com/dev.php?method=health) - Vkontakte (Russian based major social network) status page
-* [WebGazer service status](https://status.webgazer.io) - WebGazer status page
-* [Wikimedia status](https://www.wikimediastatus.net/) - Wikimedia status page
-* [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Grafana based status page replacement for Wikipedia
-* [Zendesk Status](https://status.zendesk.com/) - Zendesk status page
-* [Zoom Cloud Status](https://status.zoom.us/) - Zoom (videoconferencing) status page
-
-## Hosting and Cloud
-* [Alibaba Cloud](https://status.alibabacloud.com/) - Alibaba Cloud status page
-* [AWS](https://status.aws.amazon.com/) - AWS status page
-* [Cloudways](https://status.cloudways.com) - Cloudways status page
-* [DigitalOcean](https://status.digitalocean.com) - DigitalOcean status page
-* [DomaiNesia](https://www.domainesia.com/status) - DomaiNesia status page
-* [Google Cloud](https://status.cloud.google.com/) - Google Cloud status page
-* [Hetzner Online](https://status.hetzner.com/) - Hetzner Online status page
-* [Hostinger](https://statuspage.hostinger.com) - Hostinger status page
-* [Kinsta](https://status.kinsta.com) - Kinsta status page
-* [Linode](https://status.linode.com) - Linode status page
-* [Microsoft Azure](https://status.azure.com/en-us/status) - Microsoft Azure status page
+* [Incident.io](https://status.incident.io/) - Incident.io status page
+* [InfluxData](https://status.influxdata.com/) - InfluxData status page
+* [Intercom](https://www.intercomstatus.com/) - Intercom status page
+* [Jitterbit](https://trust.jitterbit.com/) - Jitterbit status page
+* [Jotform](https://status.jotform.com/) - Jotform status page
+* [Klarna](https://status.klarna.com/) - Klarna status page
+* [Laravel](https://status.laravel.com/) - Laravel status page
+* [Lattice](https://status.lattice.com/) - Lattice status page
+* [LaunchDarkly](https://status.launchdarkly.com/) - LaunchDarkly status page
+* [Linear](https://linearstatus.com/) - Linear status page
+* [LinkedIn](https://www.linkedin-status.com/) - LinkedIn status page
+* [Linode](https://status.linode.com/) - Linode status page
+* [Loom](https://www.loomstatus.com/) - Loom status page
+* [Lucid](https://status.lucid.co/) - Lucid status page
+* [Mailchimp](https://status.mailchimp.com/) - Mailchimp status page
+* [Make](https://status.make.com/) - Make status page
+* [Mapbox](https://status.mapbox.com/) - Mapbox status page
+* [Meta](https://metastatus.com/) - Meta status page
+* [Microsoft Cloud](https://status.cloud.microsoft/) - Microsoft Cloud status page
+* [Miro](https://status.miro.com/) - Miro status page
+* [Mixpanel](https://www.mixpanelstatus.com/) - Mixpanel status page
+* [Monday.com](https://status.monday.com/) - Monday.com status page
+* [MongoDB Cloud](https://status.mongodb.com/) - MongoDB Cloud status page
 * [Netlify](https://www.netlifystatus.com/) - Netlify status page
-* [Oracle Cloud](https://ocistatus.oraclecloud.com/) - Oracle Cloud status page
-* [OVHcloud](https://www.status-ovhcloud.com) - OVHcloud status page
-* [Rackspace](https://status.apps.rackspace.com) - Rackspace status page
-* [Scaleway](https://status.scaleway.com/) - Scaleway status page
-* [UpCloud](https://status.upcloud.com) - UpCloud status page
+* [New Relic](https://status.newrelic.com/) - New Relic status page
+* [NextRoll](https://status.nextroll.com/) - NextRoll status page
+* [npm](https://status.npmjs.org/) - npm status page
+* [Okta](https://status.okta.com/) - Okta status page
+* [OpenAI](https://status.openai.com/) - OpenAI status page
+* [Optimizely](https://status.optimizely.com/) - Optimizely status page
+* [Oracle Cloud](https://ocistatus.oraclecloud.com) - Oracle Cloud status page
+* [PagerDuty](https://status.pagerduty.com/) - PagerDuty status page
+* [Paubox](https://status.paubox.com/) - Paubox status page
+* [PayPal](https://www.paypal-status.com/product/production) - PayPal status page
+* [Pendo](https://status.pendo.io/) - Pendo status page
+* [Pinterest](https://www.pintereststatus.com/) - Pinterest status page
+* [PlanetScale](https://www.planetscalestatus.com/) - PlanetScale status page
+* [Plausible](https://status.plausible.io/) - Plausible status page
+* [Pleo](https://status.pleo.io/) - Pleo status page
+* [Python](https://status.python.org/) - Python status page
+* [Qualtrics](https://status.qualtrics.com/) - Qualtrics status page
+* [Ravelin](https://status.ravelin.com/) - Ravelin status page
+* [Reddit](https://www.redditstatus.com/) - Reddit status page
+* [Render](https://status.render.com/) - Render status page
+* [Repetiti](https://status.repetiti.com/) - Repetiti status page
+* [Revolut](https://www.revolut.com/system-status/) - Revolut status page
+* [Riot Games](https://status.riotgames.com) - Riot Games status page
+* [Rippling](https://status.rippling.com/) - Rippling status page
+* [Salesforce](https://status.salesforce.com/) - Salesforce status page
+* [Sanity](https://www.sanity-status.com/) - Sanity status page
+* [Segment](https://status.segment.com/) - Segment status page
+* [SendGrid](https://status.sendgrid.com/) - SendGrid status page
+* [Sentry](https://status.sentry.io/) - Sentry status page
+* [Shopify](https://www.shopifystatus.com/) - Shopify status page
+* [Shortcut](https://status.shortcut.com/) - Shortcut status page
+* [Skype](https://support.skype.com/en/status/) - Skype status page
+* [Slack](https://slack-status.com/) - Slack status page
+* [Snowflake](https://status.snowflake.com/) - Snowflake status page
+* [Sony Playstation](https://status.playstation.com/) - Sony Playstation status page
+* [Square](https://www.issquareup.com/) - Square status page
+* [Squarespace](https://status.squarespace.com/) - Squarespace status page
+* [Stripe](https://status.stripe.com/) - Stripe status page
+* [Sumsub](https://status.sumsub.com/) - Sumsub status page
+* [Tailscale](https://status.tailscale.com/) - Tailscale status page
+* [Taskade](https://status.taskade.com/) - Taskade status page
+* [Travis CI](https://www.traviscistatus.com/) - Travis CI status page
+* [Twilio](https://status.twilio.com/) - Twilio status page
+* [Twitch](https://status.twitch.com/) - Twitch status page
+* [Udemy](https://status.udemy.com/) - Udemy status page
+* [Vanta](https://status.vanta.com/) - Vanta status page
 * [Vercel](https://www.vercel-status.com/) - Vercel status page
-* [Vultr](https://status.vultr.com) - Vultr status page
-* [Workspace ONE](https://status.workspaceone.com) - VMware Workspace ONE status page
-* [Yandex.Cloud](https://status.cloud.yandex.ru/) - Yandex.Cloud status page
+* [Xero](https://status.xero.com/) - Xero status page
+* [Zendesk](https://status.zendesk.com/) - Zendesk status page
+* [Zoom](https://status.zoom.us/) - Zoom status page
