@@ -131,15 +131,15 @@ Awesome list of status pages opensource software, online services, and public st
 * [Chief Tools](https://status.chief.tools/) - Chief Tools status page
 * [CircleCI](https://status.circleci.com/) - CircleCI status page
 * [Clearbit](https://status.clearbit.com/) - Clearbit status page
-* [Clickhouse Cloud](https://status.clickhouse.com/) - Clickhouse Cloud status page
 * [ClickUp](https://status.clickup.com/) - ClickUp status page
+* [Clickhouse Cloud](https://status.clickhouse.com/) - Clickhouse Cloud status page
 * [Cloudflare](https://www.cloudflarestatus.com/) - Cloudflare status page
 * [Codecov](https://status.codecov.com/) - Codecov status page
 * [Coinbase](https://status.coinbase.com/) - Coinbase status page
 * [Contentstack](https://status.contentstack.com/) - Contentstack status page
 * [Crowdin](https://status.crowdin.com/) - Crowdin status page
-* [Datadog](https://status.datadoghq.com/) - Datadog status page
 * [Datadog EU](https://status.datadoghq.eu/) - Datadog EU status page
+* [Datadog](https://status.datadoghq.com/) - Datadog status page
 * [Deno](https://denostatus.com/) - Deno status page
 * [Designmodo](https://status.designmodo.com/) - Designmodo status page
 * [DigitalyOcean](https://status.digitalocean.com/) - DigitalyOcean status page
