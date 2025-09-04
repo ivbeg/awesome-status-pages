@@ -131,6 +131,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [DigitalOcean Status](https://status.digitalocean.com/) - DigitalOcean Status page
 * [Discord App Status](https://discordstatus.com/) - Discord App (video conferencing & audio conferencing) status page
 * [Dropbox Status](https://status.dropbox.com/) - Dropbox service status page
+* [Epic Games Status](https://status.epicgames.com/) - Epic Status page
 * [Facebook for Business Status](https://status.fb.com/) - Facebook platform status page
 * [Facebook Platform Status](https://developers.facebook.com/status/dashboard/) - Facebook platform status page
 * [Fastly Status Page](https://status.fastly.com/) - Fastly Status
