@@ -86,7 +86,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
 * [PagerDuty Status Pages](https://www.pagerduty.com/platform/business-ops/status-pages/)
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
-* [Phare](https://phare.io/products/uptime/status-pages) - Uptime monitoring, alerts, incidents, analytics, and status pages, all jammed into one shockingly good platform
+* [Phare](https://phare.io/products/uptime/status-pages) - Uptime monitoring, alerts, incidents, analytics, and status pages
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
 * [Pulsetic](https://pulsetic.com/) - create status pages & incident management reports and keep your visitors updated
 * [OpenStatus](https://www.openstatus.dev) - Opensource uptime monitoring with status pages with hosted service
