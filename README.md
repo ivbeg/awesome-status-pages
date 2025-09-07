@@ -109,7 +109,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [UpReport](https://up.report/free-status-page) - Free status page, uptime monitoring, and alerting for early-stage products
 * [Uptime.com](https://uptime.com) - Website Monitoring, Status Pages (Private & Public) and Incident Management.
-* [Uptime Observer](https://uptimeobserver.com/) - Get 20 uptime monitors with 5-minute intervals and a customizable status page—even for commercial use. Enjoy unlimited, real-time notifications via email and Telegram. No credit card needed to get started.
+* [UptimeObserver](https://uptimeobserver.com/) - Website Monitoring, API Monitoring, Status Pages and multiple integrations.
 * [Uptime Robot](https://uptimerobot.com/)
 * [UptimeToolbox](https://www.uptimetoolbox.com/) - Website/Server monitors with status pages.
 * [Uptimia](https://www.uptimia.com/) - Website monitoring, on-call alerting with status pages.
