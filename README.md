@@ -31,6 +31,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
 * ~~[Okazanta](https://github.com/okazanta/Okazanta-legacy)~~ *(Discontinued / Un-Supported)*
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
+* [OpenStatus](https://www.openstatus.dev) - Opensource uptime monitoring with status pages with hosted service
 * [Pagetron](https://github.com/agrrh/pagetron) - Status page generator, based on Prometheus, designed to be deployed to Kubernetes clusters
 * [Server-Status](https://github.com/Pryx/server-status)
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
@@ -50,6 +51,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Upptime](https://github.com/upptime/upptime) - monitor and status page powered by GitHub
 * ~~[Uptimon](https://github.com/RatherLogical/Uptimon) - A PHP powered status page/monitoring solution.~~ *(Looks like project removed or set to private)*
 * [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - A self-hosted monitoring tool like "Uptime Robot".
+* [Peekaping](https://github.com/0xfurai/peekaping) - A self-hosted uptime monitoring with real-time dashboard, multi-channel notifications, status pages, and analytics.
 * [Vigil](https://github.com/valeriansaliou/vigil) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 * [WM Website Status](https://gitlab.com/WEB-Manufaktur/website-status-php-script) - A straightforward PHP script designed for monitoring the status and latency of multiple domains.
 * [Workers Status Page](https://github.com/eidam/cf-workers-status-page) - Cloudflare Workers (completely on the edge) powered monitoring & status page.
@@ -63,7 +65,6 @@ Awesome list of status pages opensource software, online services, and public st
 * ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha~~ *(Discontinued)*
 * [Odown](https://odown.io) - Public Status Pages with built-in monitoring for websites and APIs
 * [Better Stack](https://betterstack.com/status-page) - Uptime monitoring, on-call alerting, and status pages
-* [Bluesky](https://status.bsky.app) - Status page for Bluesky social network
 * [Checkly](https://www.checklyhq.com) - API & E2E monitoring platform
 * [Cronitor.io](https://cronitor.io/status-pages) - Status Pages with built-in monitoring for websites, APIs, cron jobs and heartbeats.
 * [FreshStatus](https://www.freshworks.com/statuspage/)
@@ -75,9 +76,8 @@ Awesome list of status pages opensource software, online services, and public st
 * [Hydrozen.io](https://hydrozen.io/) - Uptime monitoring with built in fast Statuspages & Analytics.
 * [Hyperping.io](https://hyperping.io) - Public & private status pages with built-in monitoring.
 * [IsDown.app](https://isdown.app) - Status page aggregator for all cloud dependencies, uptime monitoring, and internal, and private status pages.
-* [incident.io](https://incident.io/status-pages) - Public, private (domain authenticated), and internal status pages.
-* [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * [Incident.io](https://incident.io) - Incident management, on-call alerting, and public, customer, and private status pages.
+* [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * [IncidentHub](https://incidenthub.cloud/) - Status page aggregator monitoring SaaS and Cloud providers/
 * ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
 * [LIVCK](https://livck.com) - Monitoring with private/public statuspage
@@ -85,16 +85,18 @@ Awesome list of status pages opensource software, online services, and public st
 * [OnlineOrNot](https://onlineornot.com) - hosted public/private status pages with integrated uptime monitoring for websites and APIs
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
 * [PagerDuty Status Pages](https://www.pagerduty.com/platform/business-ops/status-pages/)
+* [Pagerly](https://pagerly.io) - Oncalls and Incidence response with custom domain hosted status pages and uptime monitoring
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
+* [Phare](https://phare.io/products/uptime/status-pages) - Uptime monitoring, alerts, incidents, analytics, and status pages
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
 * [Pulsetic](https://pulsetic.com/) - create status pages & incident management reports and keep your visitors updated
-* [OpenStatus](https://www.openstatus.dev) - Opensource uptime monitoring with status pages with hosted service
 * [Sematext Cloud](https://sematext.com/status-pages-and-incidents/) - public & private status pages with incidents, uptime metrics and charts offered as part of Sematext Synthetics
 * [Sorry™](https://www.sorryapp.com)
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
 * [Status.io](https://status.io)
 * [StatusCast](https://statuscast.com/)
 * [StatusGator](https://statusgator.com/) - Status page aggregator with public and private status pages and website monitoring
+* [StatusHub](https://statushub.com/) - Communicate downtime with APIs, web-hooks, and automation
 * [StatusKeeper](https://statuskeeper.com/)
 * [StatusKit](https://statuskit.com/)
 * [StatusList](https://statuslist.app) - Hosted status pages, uptime monitoring and debug tools in one dashboard.
@@ -102,8 +104,10 @@ Awesome list of status pages opensource software, online services, and public st
 * [Statuspal](https://statuspal.io) - Hosted status pages & monitoring.
 * ~~[Statusy](https://statusy.co) *(Discontinued)*~~
 * [StatusSight](https://statussight.com/) - status page aggregator for monitoring third-party services and APIs.
+* [StatusRay](https://statusray.com) - Status Pages ( Public & Private ) with built-in Website Monitoring.
 * [StatusTicker](https://statusticker.com) - Aggregated service provider incident and outage monitoring
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
+* [UpReport](https://up.report/free-status-page) - Free status page, uptime monitoring, and alerting for early-stage products
 * [Uptime.com](https://uptime.com) - Website Monitoring, Status Pages (Private & Public) and Incident Management.
 * [Uptime Observer](https://uptimeobserver.com/) - Get 20 uptime monitors with 5-minute intervals and a customizable status page—even for commercial use. Enjoy unlimited, real-time notifications via email and Telegram. No credit card needed to get started.
 * [Uptime Robot](https://uptimerobot.com/)
@@ -123,6 +127,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [AppsFlyer](http://status.appsflyer.com/) - Apps Flyer (marketing app) support status
 * [BambooHR](https://status.bamboohr.com/) - BambooHR status page
 * [BigQuery](https://status.cloud.google.com/) - BigQuery status page
+* [Bluesky](https://status.bsky.app) - Status page for Bluesky social network
 * [Box Status](https://status.box.com/) - Box.net status page
 * [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare System Status
 * [CloudFront Status](https://cloudharmony.com/status-of-cdn-for-aws) - Amazon CloudFront Service Status
@@ -132,6 +137,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [DigitalOcean Status](https://status.digitalocean.com/) - DigitalOcean Status page
 * [Discord App Status](https://discordstatus.com/) - Discord App (video conferencing & audio conferencing) status page
 * [Dropbox Status](https://status.dropbox.com/) - Dropbox service status page
+* [Epic Games Status](https://status.epicgames.com/) - Epic Status page
 * [Facebook for Business Status](https://status.fb.com/) - Facebook platform status page
 * [Facebook Platform Status](https://developers.facebook.com/status/dashboard/) - Facebook platform status page
 * [Fastly Status Page](https://status.fastly.com/) - Fastly Status
@@ -181,7 +187,8 @@ Awesome list of status pages opensource software, online services, and public st
 * [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Grafana based status page replacement for Wikipedia
 * [Zendesk Status](https://status.zendesk.com/) - Zendesk status page
 * [Zoom Cloud Status](https://status.zoom.us/) - Zoom (videoconferencing) status page
-
+* [Wordnik](https://status.wordnik.com/) - Wordnik public status page based on MD and JSON files hosted on Github updated regularly by bot
+  
 ## Hosting and Cloud
 * [Alibaba Cloud](https://status.alibabacloud.com/) - Alibaba Cloud status page
 * [AWS](https://status.aws.amazon.com/) - AWS status page
@@ -189,6 +196,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [DigitalOcean](https://status.digitalocean.com) - DigitalOcean status page
 * [DomaiNesia](https://www.domainesia.com/status) - DomaiNesia status page
 * [Google Cloud](https://status.cloud.google.com/) - Google Cloud status page
+* [Hetzner Online](https://status.hetzner.com/) - Hetzner Online status page
 * [Hostinger](https://statuspage.hostinger.com) - Hostinger status page
 * [Kinsta](https://status.kinsta.com) - Kinsta status page
 * [Linode](https://status.linode.com) - Linode status page
