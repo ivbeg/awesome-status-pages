@@ -51,7 +51,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Upptime](https://github.com/upptime/upptime) - monitor and status page powered by GitHub
 * ~~[Uptimon](https://github.com/RatherLogical/Uptimon) - A PHP powered status page/monitoring solution.~~ *(Looks like project removed or set to private)*
 * [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - A self-hosted monitoring tool like "Uptime Robot".
-* [Peekaping](https://github.com/0xfurai/peekaping) - Modern self-hosted uptime monitoring with real-time dashboard, multi-channel notifications, status pages, and analytics.
+* [Peekaping](https://github.com/0xfurai/peekaping) - A self-hosted uptime monitoring with real-time dashboard, multi-channel notifications, status pages, and analytics.
 * [Vigil](https://github.com/valeriansaliou/vigil) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 * [WM Website Status](https://gitlab.com/WEB-Manufaktur/website-status-php-script) - A straightforward PHP script designed for monitoring the status and latency of multiple domains.
 * [Workers Status Page](https://github.com/eidam/cf-workers-status-page) - Cloudflare Workers (completely on the edge) powered monitoring & status page.
