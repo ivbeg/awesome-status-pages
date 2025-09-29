@@ -4,12 +4,10 @@ Awesome list of status pages opensource software, online services, and public st
 
 ### Table of Contents
 
-- [Awesome status pages  ](#awesome-status-pages--)
-    - [Table of Contents](#table-of-contents)
-  - [Opensource](#opensource)
-  - [Services](#services)
-  - [Public Status Pages](#public-status-pages)
-  - [Hosting and Cloud](#hosting-and-cloud)
+* [Opensource](#opensource)
+* [Services](#services)
+* [Public Status Pages](#public-status-pages)
+* [Hosting and Cloud](#hosting-and-cloud)
 
 ## Opensource
 * [aPulse](https://github.com/ybouane/aPulse) - A One-File Nodejs Server Status Monitoring Tool.
