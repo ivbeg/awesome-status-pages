@@ -97,6 +97,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Status.io](https://status.io)
 * [StatusCast](https://statuscast.com/)
 * [StatusGator](https://statusgator.com/) - Status page aggregator with public and private status pages and website monitoring
+* [whatbroke.today](https://whatbroke.today) - AI-powered status page aggregator monitoring 100+ cloud services with Telegram alerts and AI-generated incident summaries.
 * [StatusHub](https://statushub.com/) - Communicate downtime with APIs, web-hooks, and automation
 * [StatusKeeper](https://statuskeeper.com/)
 * [StatusKit](https://statuskit.com/)
