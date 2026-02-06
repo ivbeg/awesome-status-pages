@@ -67,6 +67,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Better Stack](https://betterstack.com/status-page) - Uptime monitoring, on-call alerting, and status pages
 * [Checkly](https://www.checklyhq.com) - API & E2E monitoring platform
 * [Cronitor.io](https://cronitor.io/status-pages) - Status Pages with built-in monitoring for websites, APIs, cron jobs and heartbeats.
+* [Exit1](https://exit1.dev) - Unlimited uptime monitoring with 1-minute checks, instant alerts, and SSL coverage — completely free, no catches.
 * [FreshStatus](https://www.freshworks.com/statuspage/)
 * [Garmingo Status](https://garmingo.com/status) - Uptime monitoring and status pages for websites, APIs, ...
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
