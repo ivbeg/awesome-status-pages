@@ -2,6 +2,9 @@
 
 Awesome list of status pages opensource software, online services, and public status pages of major internet companies.
 
+> [!WARNING]
+> For contributors: AI-generated pull requests are not permitted. Any automated PR will lead to a permanent ban, and the proposed service will not be considered. Human contributors are always welcome.
+
 ### Table of Contents
 
 * [Opensource](#opensource)
