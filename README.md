@@ -60,6 +60,8 @@ Awesome list of status pages opensource software, online services, and public st
 * [Workers Status Page](https://github.com/eidam/cf-workers-status-page) - Cloudflare Workers (completely on the edge) powered monitoring & status page.
 * [UptimeFlare](https://github.com/lyc8503/UptimeFlare) - Another monitoring & status page completely powered by Cloudflare Workers & Pages.
 * [Kener](https://kener.ing/) - A SvelteKit + Node.js status page with incident management.
+* [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) - Serverless SSL/TLS certificate expiry monitoring tool on Cloudflare Workers.
+* [DNS Propagation Checker](https://github.com/brancogao/dns-propagation-checker) - Global DNS propagation monitoring tool on Cloudflare Workers.
 
 ## Services
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
