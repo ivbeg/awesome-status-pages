@@ -121,6 +121,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Uptimia](https://www.uptimia.com/) - Website monitoring, on-call alerting with status pages.
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring, cron job monitoring and hosted status pages.
 * [Xitoring](https://xitoring.com) - Uptime monitoring, Server monitoring, built-in hosted status pages.
+* [Quicc Status](https://quiccstatus.xyz/) - Simple to setup uptime monitoring, Server monitoring, free built-in hosted status pages.
 
 ## Public Status Pages
 * [Absurd Design](https://status.absurd.design/) - Absurd Design status
