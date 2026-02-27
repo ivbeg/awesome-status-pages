@@ -60,6 +60,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Workers Status Page](https://github.com/eidam/cf-workers-status-page) - Cloudflare Workers (completely on the edge) powered monitoring & status page.
 * [UptimeFlare](https://github.com/lyc8503/UptimeFlare) - Another monitoring & status page completely powered by Cloudflare Workers & Pages.
 * [Kener](https://kener.ing/) - A SvelteKit + Node.js status page with incident management.
+* [YASP](https://yasp.io) - Yet Another Status Page based on Next.JS and Payload CMS. SMTP and Twilio integrations. One-click hostable on Vercel.
 
 ## Services
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
