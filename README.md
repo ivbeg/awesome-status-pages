@@ -48,7 +48,7 @@ Awesome list of status pages opensource software, online services, and public st
 * ~~[statuspage](https://github.com/darkpixel/statuspage)~~ - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/)) *(Discontinued)*
 * [Staytus](https://staytus.co/)
 * [status-page](https://github.com/rails-engine/status-page) - Mountable status page for your Rails application, to check Cache, Redis, Sidekiq
-* [Status-Page](https://github.com/Status-Page/Status-Page) - Self-hosted status page site written in Django
+* ~~[Status-Page](https://github.com/Status-Page/Status-Page)~~  - *(Discontinued)*
 * [Statusimo](https://github.com/EvotecIT/Statusimo) - A PowerShell module that is able to generate a status page entirely from PowerShell.
 * [Tinystatus](https://github.com/bderenzo/tinystatus) - A tiny static status page generator (written in pure shell)
 * [Upptime](https://github.com/upptime/upptime) - monitor and status page powered by GitHub
