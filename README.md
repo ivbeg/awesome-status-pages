@@ -123,6 +123,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Uptime Robot](https://uptimerobot.com/)
 * [UptimeToolbox](https://www.uptimetoolbox.com/) - Website/Server monitors with status pages.
 * [Uptimia](https://www.uptimia.com/) - Website monitoring, on-call alerting with status pages.
+* [Uptrack](https://uptrack.app) - Uptime monitoring with 30s free checks, consecutive-check alert confirmation, hosted status pages, and a built-in MCP server for AI agents.
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring, cron job monitoring and hosted status pages.
 * [Xitoring](https://xitoring.com) - Uptime monitoring, Server monitoring, built-in hosted status pages.
 
