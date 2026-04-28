@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ivbeg-awesome-status-pages-badge.png)](https://mseep.ai/app/ivbeg-awesome-status-pages)
+
 # Awesome status pages  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Awesome list of status pages opensource software, online services, and public status pages of major internet companies.
