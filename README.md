@@ -103,6 +103,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
 * [Pulsetic](https://pulsetic.com/) - create status pages & incident management reports and keep your visitors updated
 * [Sematext Cloud](https://sematext.com/status-pages-and-incidents/) - public & private status pages with incidents, uptime metrics and charts offered as part of Sematext Synthetics
+* [SitePulse](https://sitepulse.satosushi.co) - Flat-priced uptime monitoring and free public status pages for indie developers, with 1-minute checks and email alerts.
 * [Middleware](https://middleware.io/product/synthetic-monitoring/) - track performance of API and webpages with real-time alerts and uptime monitoring
 * [Sorry™](https://www.sorryapp.com)
 * [Spork Status Pages](https://sporkops.com) - Status pages with custom domains, auto-incidents from uptime monitoring, and webhook/RSS notifications.
