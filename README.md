@@ -96,6 +96,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
 * [Noticely](https://noticely.io/) - Hosted status pages with multi-region support – EU hosted
 * [OnlineOrNot](https://onlineornot.com) - hosted public/private status pages with integrated uptime monitoring for websites and APIs
+* [PageCalm](https://pagecalm.com) - Hosted status pages for small teams with AI-written incident updates.
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
 * [PagerDuty Status Pages](https://www.pagerduty.com/platform/business-ops/status-pages/)
 * [Pagerly](https://pagerly.io) - Oncalls and Incidence response with custom domain hosted status pages and uptime monitoring
