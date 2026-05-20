@@ -92,6 +92,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * [IncidentHub](https://incidenthub.cloud/) - Status page aggregator monitoring SaaS and Cloud providers/
 * ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
+* [Layeredy Uptime](https://layeredy.com/uptime) - Uptime monitoring and status-pages
 * [LIVCK](https://livck.com) - Monitoring with private/public statuspage
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
 * [Noticely](https://noticely.io/) - Hosted status pages with multi-region support – EU hosted
