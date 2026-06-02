@@ -96,6 +96,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [LIVCK](https://livck.com) - Monitoring with private/public statuspage
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
 * [Noticely](https://noticely.io/) - Hosted status pages with multi-region support – EU hosted
+* [Oh Dear](https://ohdear.app) - All-in-one monitoring with public and private status pages, uptime, performance, SSL and broken link checks
 * [OnlineOrNot](https://onlineornot.com) - hosted public/private status pages with integrated uptime monitoring for websites and APIs
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
 * [PagerDuty Status Pages](https://www.pagerduty.com/platform/business-ops/status-pages/)
