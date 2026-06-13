@@ -135,6 +135,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Uptrack](https://uptrack.app) - Uptime monitoring with 30s free checks, consecutive-check alert confirmation, hosted status pages, and a built-in MCP server for AI agents.
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring, cron job monitoring and hosted status pages.
 * [Xitoring](https://xitoring.com) - Uptime monitoring, Server monitoring, built-in hosted status pages.
+* [Prismix](https://prismix.dev) - AI hub with real-time status monitoring for 75+ AI services (OpenAI, Anthropic, Groq, Mistral, etc.), news aggregation from 70+ sources, and an MCP server directory. Features incidents timeline, email/webhook alerts, public REST API, embeddable SVG badges, and a badge embed API. Built on Cloudflare Workers + KV.
 * [DownForAI](https://downforai.com) - Status page aggregator for AI services with real-time monitoring of 800+ AI tools and APIs (OpenAI, Anthropic, Gemini, Groq, Midjourney, etc.). Free public API and SVG status badges.
 
 ## Public Status Pages
