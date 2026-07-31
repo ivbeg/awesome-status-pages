@@ -74,6 +74,7 @@ Awesome list of status pages opensource software, online services, and public st
 * ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha~~ *(Discontinued)*
 * [Odown](https://odown.io) - Public Status Pages with built-in monitoring for websites and APIs
 * [Better Stack](https://betterstack.com/status-page) - Uptime monitoring, on-call alerting, and status pages
+* [Betting Status](https://bettingstatus.com) - Status page aggregator for sportsbooks (DraftKings, FanDuel, BetMGM, and more) with instant outage alerts
 * [Checkly](https://www.checklyhq.com) - API & E2E monitoring platform
 * [Chirp](https://getchirp.dev) - Monitoring and status pages for indie hackers and small teams, with uptime checks, incident management, and email notifications
 * [Cronitor.io](https://cronitor.io/status-pages) - Status Pages with built-in monitoring for websites, APIs, cron jobs and heartbeats.
