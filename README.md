@@ -67,6 +67,7 @@ Awesome list of status pages opensource software, online services, and public st
 - [KubeStellar Console](https://github.com/kubestellar/console) — Multi-cluster Kubernetes management console with built-in cluster health dashboards; provides real-time status monitoring across cloud and edge Kubernetes deployments.
 
 ## Services
+* [Pingzo](https://www.pingzoapp.com) - WhatsApp-first API and uptime monitoring service with sub-minute checks, SSL alerts, and public status pages.
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
 * [Alerty Monitoring](https://www.alerty.ai) - APM & monitoring for your app and the services it depends on, with agents that help you debug.
 * [API Status Check](https://apistatuscheck.com) - Real-time status monitoring for 188+ third-party APIs (OpenAI, Stripe, AWS, GitHub, etc.) with free dashboard and alert tiers
