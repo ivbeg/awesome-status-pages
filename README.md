@@ -126,7 +126,7 @@ Awesome list of status pages opensource software, online services, and public st
 * ~~[Statusy](https://statusy.co) *(Discontinued)*~~
 * [StatusSight](https://statussight.com/) - status page aggregator for monitoring third-party services and APIs.
 * [StatusRay](https://statusray.com) - Status Pages ( Public & Private ) with built-in Website Monitoring.
-* [StatusTicker](https://statusticker.com) - Aggregated service provider incident and outage monitoring
+* [StatusStack](https://statusstack.com) - Aggregated service provider incident and outage monitoring
 * [TaskCall](http://taskcallapp.com/) - Offers status page along with incident response management.
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [UpReport](https://up.report/free-status-page) - Free status page, uptime monitoring, and alerting for early-stage products
