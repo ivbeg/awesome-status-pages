@@ -78,6 +78,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Chirp](https://getchirp.dev) - Monitoring and status pages for indie hackers and small teams, with uptime checks, incident management, and email notifications
 * [Cronitor.io](https://cronitor.io/status-pages) - Status Pages with built-in monitoring for websites, APIs, cron jobs and heartbeats.
 * [Drumbeats.io](https://drumbeats.io/) - Status pages and incident management for cron, heartbeat, HTTP, and uptime monitors. 
+* [ePulz.io](https://epulz.io) - EU-hosted, GDPR-friendly uptime monitoring with public status pages, SSL and domain expiry, heartbeats, visual checks and alerts via email/Telegram/Slack/MS Teams. 14 languages.
 * [FlareWarden](https://flarewarden.com/status-pages) - Status pages with incident management, maintenance windows, and built-in multi-region uptime monitoring. Free tier available.
 * [FreshStatus](https://www.freshworks.com/statuspage/)
 * [Garmingo Status](https://garmingo.com/status) - Uptime monitoring and status pages for websites, APIs, ...
