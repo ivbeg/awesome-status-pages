@@ -214,6 +214,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Wordnik](https://status.wordnik.com/) - Wordnik public status page based on MD and JSON files hosted on Github updated regularly by bot
   
 ## Hosting and Cloud
+- [n8n-uptime-ping-alert](https://github.com/ogamedeus/n8n-uptime-ping-alert) - Free n8n workflow that pings your services and alerts you on downtime via Telegram/Slack/email, no hosted status page needed.
 * [Alibaba Cloud](https://status.alibabacloud.com/) - Alibaba Cloud status page
 * [AWS](https://status.aws.amazon.com/) - AWS status page
 * [Cloudways](https://status.cloudways.com) - Cloudways status page
