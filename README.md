@@ -235,3 +235,4 @@ Awesome list of status pages opensource software, online services, and public st
 * [Vultr](https://status.vultr.com) - Vultr status page
 * [Workspace ONE](https://status.workspaceone.com) - VMware Workspace ONE status page
 * [Yandex.Cloud](https://status.cloud.yandex.ru/) - Yandex.Cloud status page
+- [n8n Uptime Ping Alert](https://github.com/DeusAcc/n8n-uptime-ping-alert) - Free n8n workflow that checks a site every 5 minutes and alerts on Telegram only on state change.
