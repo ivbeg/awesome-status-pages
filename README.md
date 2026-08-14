@@ -235,3 +235,4 @@ Awesome list of status pages opensource software, online services, and public st
 * [Vultr](https://status.vultr.com) - Vultr status page
 * [Workspace ONE](https://status.workspaceone.com) - VMware Workspace ONE status page
 * [Yandex.Cloud](https://status.cloud.yandex.ru/) - Yandex.Cloud status page
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
