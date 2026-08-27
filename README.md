@@ -95,6 +95,7 @@ Awesome list of status pages opensource software, online services, and public st
 * ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
 * [Layeredy Uptime](https://layeredy.com/uptime) - Uptime monitoring and status-pages
 * [LIVCK](https://livck.com) - Monitoring with private/public statuspage
+* [Merlonix](https://merlonix.com) - SSL, DNS, and uptime monitoring for agencies with per-client white-label hosted status pages and a built-in MCP server for AI agents.
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
 * [Noticely](https://noticely.io/) - Hosted status pages with multi-region support – EU hosted
 * [OnlineOrNot](https://onlineornot.com) - hosted public/private status pages with integrated uptime monitoring for websites and APIs
