@@ -176,6 +176,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [HiBob](https://status.hibob.io/) - HiBob (HRIS systemm) status page
 * [HubSpot](https://status.hubspot.com/) - HubSpot status page
 * [Humanity](https://humanity.status.io/) - Humanity status page
+* [iGaming Tools](https://statuspage.i-gaming.tools/) - Slots and providers data platform status page
 * [Jitterbit](https://trust.jitterbit.com/) - JitterBit Page status page
 * [Linear](https://linearstatus.com) - Linear status page
 * [LucidApp](https://trust.jitterbit.com/) - LucidChart status page
