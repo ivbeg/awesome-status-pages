@@ -146,6 +146,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Akamai Status](https://cloudharmony.com/status-for-akamai) - Akamai Service Status
 * [Amplitude status page](https://status.amplitude.com/) - Digital optimisation system status page
 * [Atlassian cloud dashboard](https://status.atlassian.com/) - status page of Atlassian cloud services and public websites
+* [APITube Status](https://status.apitube.io/) - APITube News API status page
 * [Apple Developer Status](https://developer.apple.com/system-status/) - status page of Apple Developer services ecosystem
 * [Apple Support System Status](https://www.apple.com/support/systemstatus/) - Apple support status
 * [AppsFlyer](http://status.appsflyer.com/) - Apps Flyer (marketing app) support status
