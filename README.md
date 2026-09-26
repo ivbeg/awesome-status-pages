@@ -120,6 +120,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [StatusKeeper](https://statuskeeper.com/)
 * [StatusKit](https://statuskit.com/)
 * [StatusList](https://statuslist.app) - Hosted status pages, uptime monitoring and debug tools in one dashboard.
+* [Statsy](https://statsy.page) - Status pages with embeddable status badge and uptime monitoring, free forever tier
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
 * [Statuspagebuddy](https://www.statuspagebuddy.com) - Free status pages for indie developers. 60-second setup, zero config.
 * [Statuspal](https://statuspal.io) - Hosted status pages & monitoring.
