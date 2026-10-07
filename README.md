@@ -95,6 +95,7 @@ Awesome list of status pages opensource software, online services, and public st
 * ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
 * [Layeredy Uptime](https://layeredy.com/uptime) - Uptime monitoring and status-pages
 * [LIVCK](https://livck.com) - Monitoring with private/public statuspage
+* [LiveOrDown](https://liveordown.com) - Free status page aggregator: 240+ services checked every minute from 3 regions, with RSS feeds and a JSON API.
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
 * [Noticely](https://noticely.io/) - Hosted status pages with multi-region support – EU hosted
 * [OnlineOrNot](https://onlineornot.com) - hosted public/private status pages with integrated uptime monitoring for websites and APIs
