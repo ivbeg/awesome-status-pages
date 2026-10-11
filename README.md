@@ -114,6 +114,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
 * [Status.io](https://status.io)
 * [StatusCast](https://statuscast.com/)
+* [StatusEntry](https://statusentry.com) - Hosted status pages with incident updates, subscriber notifications and built-in endpoint monitoring.
 * [StatusGator](https://statusgator.com/) - Status page aggregator with public and private status pages and website monitoring
 * [whatbroke.today](https://whatbroke.today) - Aggregates status pages from cloud services. Telegram alerts, RSS feed, JSON API.
 * [StatusHub](https://statushub.com/) - Communicate downtime with APIs, web-hooks, and automation
