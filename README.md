@@ -38,6 +38,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
 * [OpenStatus](https://www.openstatus.dev) - Opensource uptime monitoring with status pages with hosted service
 * [Pagetron](https://github.com/agrrh/pagetron) - Status page generator, based on Prometheus, designed to be deployed to Kubernetes clusters
+* [Raaqeb](https://raaqeb.dev) - Self-hosted uptime monitoring and status pages in a single binary. Runs on SQLite or Postgres, in Arabic and English.
 * [Server-Status](https://github.com/Pryx/server-status)
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
 * [Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page
