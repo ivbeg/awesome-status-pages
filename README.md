@@ -53,8 +53,7 @@ Awesome list of status pages opensource software, online services, and public st
 * ~~[Status-Page](https://github.com/Status-Page/Status-Page)~~ *(Discontinued)*
 * [Statusimo](https://github.com/EvotecIT/Statusimo) - A PowerShell module that is able to generate a status page entirely from PowerShell.
 * [Tinystatus](https://github.com/bderenzo/tinystatus) - A tiny static status page generator (written in pure shell)
-* [upbeat](https://github.com/Jubstaaa/upbeat) - Animated status page for UptimeRobot monitors. One read-only API key, no database; runs on Cloudflare Workers' free plan,
-  Vercel or Docker. Live demo at https://status.webgooh.tech. MIT.
+* [upbeat](https://github.com/Jubstaaa/upbeat) - Animated status page for UptimeRobot monitors. One read-only API key, no database; runs on Cloudflare Workers' free plan, Vercel or Docker. Live demo at https://status.webgooh.tech. MIT.
 * [Upptime](https://github.com/upptime/upptime) - monitor and status page powered by GitHub
 * ~~[Uptimon](https://github.com/RatherLogical/Uptimon) - A PHP powered status page/monitoring solution.~~ *(Looks like project removed or set to private)*
 * [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - A self-hosted monitoring tool like "Uptime Robot".
