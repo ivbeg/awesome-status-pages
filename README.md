@@ -3,7 +3,12 @@
 Awesome list of status pages opensource software, online services, and public status pages of major internet companies.
 
 > [!WARNING]
-> For contributors: AI-generated pull requests are not permitted. Any automated PR will lead to a permanent ban, and the proposed service will not be considered. Human contributors are always welcome.
+> For contributors: AI-generated pull requests and issues are not permitted. Any AI automated PR or issue will lead to a permanent ban, and the proposed service will not be considered. No exclusions. Human contributors are always welcome.
+>
+> Any AI slop projects and services will not added till at least 3 months reviews or even more. If it doesn't create anything unique/different from already added projects or services, most likely it will not added.
+> 
+> All these measured are against rapidly growing AI spam and low-quality AI slop projects. Human contributors are always welcome.
+
 
 ### Table of Contents
 
