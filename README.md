@@ -141,6 +141,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [UptimeToolbox](https://www.uptimetoolbox.com/) - Website/Server monitors with status pages.
 * [Uptimia](https://www.uptimia.com/) - Website monitoring, on-call alerting with status pages.
 * [Uptrack](https://uptrack.app) - Uptime monitoring with 30s free checks, consecutive-check alert confirmation, hosted status pages, and a built-in MCP server for AI agents.
+* [Visual Sentinel](https://visualsentinel.com/status-pages) - Website and server monitoring with hosted status pages, plus visual, content, SSL and DNS checks.
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring, cron job monitoring and hosted status pages.
 * [Xitoring](https://xitoring.com) - Uptime monitoring, Server monitoring, built-in hosted status pages.
 * [DownForAI](https://downforai.com) - Status page aggregator for AI services with real-time monitoring of 800+ AI tools and APIs (OpenAI, Anthropic, Gemini, Groq, Midjourney, etc.). Free public API and SVG status badges.
