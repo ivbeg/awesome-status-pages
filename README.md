@@ -132,6 +132,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [StatusSight](https://statussight.com/) - status page aggregator for monitoring third-party services and APIs.
 * [StatusRay](https://statusray.com) - Status Pages ( Public & Private ) with built-in Website Monitoring.
 * [StatusTicker](https://statusticker.com) - Aggregated service provider incident and outage monitoring
+* [Tanod Monitor](https://tanod.dev/monitor/) - Free uptime, ping, TCP, TLS/domain expiry, DNS, cron heartbeat and MikroTik router monitoring with a public status page (Up/Down and 24h uptime); alerts via Telegram, ntfy or webhook; no account needed.
 * [TaskCall](http://taskcallapp.com/) - Offers status page along with incident response management.
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [UpReport](https://up.report/free-status-page) - Free status page, uptime monitoring, and alerting for early-stage products
