@@ -128,6 +128,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
 * [Statuspagebuddy](https://www.statuspagebuddy.com) - Free status pages for indie developers. 60-second setup, zero config.
 * [Statuspal](https://statuspal.io) - Hosted status pages & monitoring.
+* [InBrief](https://inbrief.sh) - Status pages and incident communication for small teams, with per-feature pricing so you only pay for what you switch on.
 * ~~[Statusy](https://statusy.co) *(Discontinued)*~~
 * [StatusSight](https://statussight.com/) - status page aggregator for monitoring third-party services and APIs.
 * [StatusRay](https://statusray.com) - Status Pages ( Public & Private ) with built-in Website Monitoring.
