@@ -109,6 +109,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Pagerly](https://pagerly.io) - Oncalls and Incidence response with custom domain hosted status pages and uptime monitoring
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Phare](https://phare.io/products/uptime/status-pages) - Uptime monitoring, alerts, incidents, analytics, and status pages
+* [RealUptime](https://realuptime.io/status) - Hosted status pages with built-in multi-region uptime monitoring. Free tier available.
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
 * [Runframe](https://runframe.io) - On-call alerting, incident management, and public/private status pages
 * [Pulsetic](https://pulsetic.com/) - create status pages & incident management reports and keep your visitors updated
