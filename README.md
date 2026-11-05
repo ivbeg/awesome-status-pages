@@ -3,7 +3,12 @@
 Awesome list of status pages opensource software, online services, and public status pages of major internet companies.
 
 > [!WARNING]
-> For contributors: AI-generated pull requests are not permitted. Any automated PR will lead to a permanent ban, and the proposed service will not be considered. Human contributors are always welcome.
+> For contributors: AI-generated pull requests and issues are not permitted. Any AI automated PR or issue will lead to a permanent ban, and the proposed service will not be considered. No exclusions. Human contributors are always welcome.
+>
+> Any AI slop projects and services will not added till at least 3 months reviews or even more. If it doesn't create anything unique/different from already added projects or services, most likely it will not added.
+> 
+> All these measured are against rapidly growing AI spam and low-quality AI slop projects. Human contributors are always welcome.
+
 
 ### Table of Contents
 
@@ -26,6 +31,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Fettle](https://github.com/mehatab/fettle) - An open-source, GitHub-powered status page project utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management.
 * [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard
 * [GitHub Status Page](https://github.com/Bullrich/Status-Page) - GitHub powered status page utilizing GitHub Actions to fetch metrics, issues to generate report incidents and GitHub pages for hosting.
+* [health](https://codeberg.org/ppatrzyk/health) - Self-hosted uptime monitoring for apps and cron jobs. Config as code. Single docker image with PostgreSQL dependency. Written in Elixir.
 * [health_check](https://github.com/ianheggie/health_check) - Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom
 * [health-monitor-rails](https://github.com/lbeder/health-monitor-rails) - A Rails plugin which provides a health checking and monitoring API of various services and application aspects
 * [HertzBeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.
@@ -146,6 +152,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Adobe System Status](https://status.adobe.com/) - Adobe services status
 * [Akamai Status](https://cloudharmony.com/status-for-akamai) - Akamai Service Status
 * [Amplitude status page](https://status.amplitude.com/) - Digital optimisation system status page
+* [Anthropic](https://status.claude.com/) - Service status for Anthropic's services (such as Claude/Claude Code).
 * [Atlassian cloud dashboard](https://status.atlassian.com/) - status page of Atlassian cloud services and public websites
 * [Apple Developer Status](https://developer.apple.com/system-status/) - status page of Apple Developer services ecosystem
 * [Apple Support System Status](https://www.apple.com/support/systemstatus/) - Apple support status

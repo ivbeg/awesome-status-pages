@@ -1,0 +1,28 @@
+# pull_request_target runs in this repository, so a fork pull request can be
+# closed. The checkout stays on the base branch. Do not check out the pull
+# request head: that would run untrusted code with a write token.
+
+name: Reject automated contributions
+
+on:
+  pull_request_target:
+    types: [opened, edited, synchronize, reopened]
+
+permissions:
+  contents: read
+  issues: write
+  pull-requests: write
+
+jobs:
+  reject:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Close pull requests from coding agents
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: python3 .github/scripts/reject_agent_pr.py
