@@ -216,6 +216,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [WebGazer service status](https://status.webgazer.io) - WebGazer status page
 * [Wikimedia status](https://www.wikimediastatus.net/) - Wikimedia status page
 * [Wikipedia Frontend Monitoring](https://grafana.wikimedia.org/d/000000479/frontend-traffic?orgId=1) - Grafana based status page replacement for Wikipedia
+* [Wispbyte Service Status](https://wispbyte.com/status) - Status page for all Wispbyte services and hosting regions/nodes.
 * [Zendesk Status](https://status.zendesk.com/) - Zendesk status page
 * [Zoom Cloud Status](https://status.zoom.us/) - Zoom (videoconferencing) status page
 * [Wordnik](https://status.wordnik.com/) - Wordnik public status page based on MD and JSON files hosted on Github updated regularly by bot
