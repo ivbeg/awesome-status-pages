@@ -113,6 +113,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
 * [Runframe](https://runframe.io) - On-call alerting, incident management, and public/private status pages
 * [Pulsetic](https://pulsetic.com/) - create status pages & incident management reports and keep your visitors updated
+* [QuickStatus](https://quickstatus.dev) - Uptime checks, with private/public status pages, automated draft checks for publicly reachable websites.
 * [Sematext Cloud](https://sematext.com/status-pages-and-incidents/) - public & private status pages with incidents, uptime metrics and charts offered as part of Sematext Synthetics
 * [Middleware](https://middleware.io/product/synthetic-monitoring/) - track performance of API and webpages with real-time alerts and uptime monitoring
 * [Sorry™](https://www.sorryapp.com)
