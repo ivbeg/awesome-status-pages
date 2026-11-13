@@ -76,6 +76,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
 * [Alerty Monitoring](https://www.alerty.ai) - APM & monitoring for your app and the services it depends on, with agents that help you debug.
 * [API Status Check](https://apistatuscheck.com) - Real-time status monitoring for 188+ third-party APIs (OpenAI, Stripe, AWS, GitHub, etc.) with free dashboard and alert tiers
+* [APIStatus.watch](https://apistatus.watch) - Status page aggregator for 110+ developer APIs and cloud services, with incident history, free email alerts, RSS feeds and embeddable status badges.
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
 * ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha~~ *(Discontinued)*
 * [Odown](https://odown.io) - Public Status Pages with built-in monitoring for websites and APIs
