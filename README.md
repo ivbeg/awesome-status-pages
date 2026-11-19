@@ -82,7 +82,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Odown](https://odown.io) - Public Status Pages with built-in monitoring for websites and APIs
 * [Better Stack](https://betterstack.com/status-page) - Uptime monitoring, on-call alerting, and status pages
 * [Checkly](https://www.checklyhq.com) - API & E2E monitoring platform
-* [Chirp](https://getchirp.dev) - Monitoring and status pages for indie hackers and small teams, with uptime checks, incident management, and email notifications
+* ~~[Chirp](https://getchirp.dev) - Monitoring and status pages for indie hackers and small teams, with uptime checks, incident management, and email notifications~~ *(Discontinued)*
 * [Cronitor.io](https://cronitor.io/status-pages) - Status Pages with built-in monitoring for websites, APIs, cron jobs and heartbeats.
 * [Drumbeats.io](https://drumbeats.io/) - Status pages and incident management for cron, heartbeat, HTTP, and uptime monitors. 
 * [FlareWarden](https://flarewarden.com/status-pages) - Status pages with incident management, maintenance windows, and built-in multi-region uptime monitoring. Free tier available.
