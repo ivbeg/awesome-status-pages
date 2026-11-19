@@ -210,6 +210,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Sony PlayStation](https://status.playstation.com/) - Sony PlayStation status page
 * [Taskade](https://status.taskade.com/) - Taskade status page
 * [Tailscale](https://status.tailscale.com/) - Tailscale status page
+* [Telegram analytics services status](https://tgscope.io/tools/online-status-checker) - Unofficial status page for TGStat, Telemetr and other Telegram analytics services, checked every 15 minutes.
 * [Trakt](https://status.trakt.tv) - Trakt status page
 * [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
 * [Udemy](https://status.udemy.com/) - Udemy status page
