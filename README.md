@@ -135,6 +135,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [StatusRay](https://statusray.com) - Status Pages ( Public & Private ) with built-in Website Monitoring.
 * [StatusTicker](https://statusticker.com) - Aggregated service provider incident and outage monitoring
 * [TaskCall](http://taskcallapp.com/) - Offers status page along with incident response management.
+* [Tenium](https://tenium.app) - Uptime monitoring with branded status pages and client reports for agencies.
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [UpReport](https://up.report/free-status-page) - Free status page, uptime monitoring, and alerting for early-stage products
 * [Uptime.com](https://uptime.com) - Website Monitoring, Status Pages (Private & Public) and Incident Management.
