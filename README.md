@@ -3,11 +3,19 @@
 Awesome list of status pages opensource software, online services, and public status pages of major internet companies.
 
 > [!WARNING]
-> For contributors: AI-generated pull requests and issues are not permitted. Any AI automated PR or issue will lead to a permanent ban, and the proposed service will not be considered. No exclusions. Human contributors are always welcome.
+> **Contribution rules. Read them before you open a pull request or an issue.**
 >
-> Any AI slop projects and services will not added till at least 3 months reviews or even more. If it doesn't create anything unique/different from already added projects or services, most likely it will not added.
-> 
-> All these measured are against rapidly growing AI spam and low-quality AI slop projects. Human contributors are always welcome.
+> **1. No AI agents.** Pull requests and issues created by AI agents, bots, or coding assistants (Claude Code, Cursor, Copilot, Codex, Devin, and similar tools) are not accepted. They are closed without review. The author gets a permanent ban, and the proposed project or service will not be considered. No exceptions.
+>
+> **2. No commercial services.** New commercial products are not accepted: SaaS status page builders, uptime monitoring services, freemium and paid tools. A free tier, a trial, or an "open-core" edition does not make a product open source. The [Services](#services) section is closed for new entries.
+>
+> **3. Only two kinds of entries are accepted:**
+> * **Open source software.** The full source code is public under an [OSI-approved license](https://opensource.org/licenses), and you can self-host the software without a paid account. "Source-available" licenses, open-core products, and SaaS products with a public repository do not qualify.
+> * **Official public status pages.** A link to the status page that a company runs for its own product or infrastructure, for example `status.example.com`. Third-party aggregators, mirrors, and monitors of other companies' services are not accepted.
+>
+> **4. Quality.** AI-generated ("AI slop") projects are not reviewed until at least 3 months after their first release, sometimes longer. A project that adds nothing unique compared to the entries already on the list will most likely not be added.
+>
+> These rules exist because of the fast-growing volume of AI spam and low-quality AI-generated projects. Human contributors are always welcome: edit README.md on github.com in the browser and describe the entry in your own words.
 
 
 ### Table of Contents
