@@ -15,7 +15,7 @@ Awesome list of status pages opensource software, online services, and public st
 >
 > **4. Quality.** AI-generated ("AI slop") projects are not reviewed until at least 3 months after their first release, sometimes longer. A project that adds nothing unique compared to the entries already on the list will most likely not be added.
 >
-> These rules exist because of the fast-growing volume of AI spam and low-quality AI-generated projects. Human contributors are always welcome: edit README.md on github.com in the browser and describe the entry in your own words.
+> These rules exist because of the fast-growing volume of AI spam and low-quality AI-generated projects. Human contributors are always welcome.
 
 
 ### Table of Contents
